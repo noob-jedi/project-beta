@@ -1,0 +1,5108 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &1
+MonoBehaviour:
+  m_ObjectHideFlags: 52
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 1
+  m_Script: {fileID: 12004, guid: 0000000000000000e000000000000000, type: 0}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_PixelRect:
+    serializedVersion: 2
+    x: 0
+    y: 43
+    width: 1536
+    height: 781
+  m_ShowMode: 4
+  m_Title: 
+  m_RootView: {fileID: 6}
+  m_MinSize: {x: 950, y: 542}
+  m_MaxSize: {x: 10000, y: 10000}
+--- !u!114 &2
+MonoBehaviour:
+  m_ObjectHideFlags: 52
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 1
+  m_Script: {fileID: 12010, guid: 0000000000000000e000000000000000, type: 0}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_Children:
+  - {fileID: 9}
+  - {fileID: 3}
+  m_Position:
+    serializedVersion: 2
+    x: 0
+    y: 30
+    width: 1536
+    height: 731
+  m_MinSize: {x: 508, y: 492}
+  m_MaxSize: {x: 14004, y: 14042}
+  vertical: 0
+  controlID: 110
+--- !u!114 &3
+MonoBehaviour:
+  m_ObjectHideFlags: 52
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 1
+  m_Script: {fileID: 12006, guid: 0000000000000000e000000000000000, type: 0}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_Children: []
+  m_Position:
+    serializedVersion: 2
+    x: 1259
+    y: 0
+    width: 277
+    height: 731
+  m_MinSize: {x: 102, y: 121}
+  m_MaxSize: {x: 4002, y: 4021}
+  m_ActualView: {fileID: 12}
+  m_Panes:
+  - {fileID: 16}
+  - {fileID: 13}
+  - {fileID: 12}
+  m_Selected: 2
+  m_LastSelected: 1
+--- !u!114 &4
+MonoBehaviour:
+  m_ObjectHideFlags: 52
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 1
+  m_Script: {fileID: 12006, guid: 0000000000000000e000000000000000, type: 0}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_Children: []
+  m_Position:
+    serializedVersion: 2
+    x: 0
+    y: 0
+    width: 311
+    height: 442
+  m_MinSize: {x: 200, y: 200}
+  m_MaxSize: {x: 4000, y: 4000}
+  m_ActualView: {fileID: 17}
+  m_Panes:
+  - {fileID: 17}
+  m_Selected: 0
+  m_LastSelected: 0
+--- !u!114 &5
+MonoBehaviour:
+  m_ObjectHideFlags: 52
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 1
+  m_Script: {fileID: 12006, guid: 0000000000000000e000000000000000, type: 0}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_Children: []
+  m_Position:
+    serializedVersion: 2
+    x: 0
+    y: 442
+    width: 1259
+    height: 289
+  m_MinSize: {x: 232, y: 271}
+  m_MaxSize: {x: 10002, y: 10021}
+  m_ActualView: {fileID: 15}
+  m_Panes:
+  - {fileID: 15}
+  - {fileID: 20}
+  m_Selected: 0
+  m_LastSelected: 0
+--- !u!114 &6
+MonoBehaviour:
+  m_ObjectHideFlags: 52
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 1
+  m_Script: {fileID: 12008, guid: 0000000000000000e000000000000000, type: 0}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_Children:
+  - {fileID: 7}
+  - {fileID: 2}
+  - {fileID: 8}
+  m_Position:
+    serializedVersion: 2
+    x: 0
+    y: 0
+    width: 1536
+    height: 781
+  m_MinSize: {x: 950, y: 542}
+  m_MaxSize: {x: 10000, y: 10000}
+--- !u!114 &7
+MonoBehaviour:
+  m_ObjectHideFlags: 52
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 1
+  m_Script: {fileID: 12011, guid: 0000000000000000e000000000000000, type: 0}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_Children: []
+  m_Position:
+    serializedVersion: 2
+    x: 0
+    y: 0
+    width: 1536
+    height: 30
+  m_MinSize: {x: 0, y: 0}
+  m_MaxSize: {x: 0, y: 0}
+  m_LastLoadedLayoutName: 
+--- !u!114 &8
+MonoBehaviour:
+  m_ObjectHideFlags: 52
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 1
+  m_Script: {fileID: 12042, guid: 0000000000000000e000000000000000, type: 0}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_Children: []
+  m_Position:
+    serializedVersion: 2
+    x: 0
+    y: 761
+    width: 1536
+    height: 20
+  m_MinSize: {x: 0, y: 0}
+  m_MaxSize: {x: 0, y: 0}
+--- !u!114 &9
+MonoBehaviour:
+  m_ObjectHideFlags: 52
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 1
+  m_Script: {fileID: 12010, guid: 0000000000000000e000000000000000, type: 0}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_Children:
+  - {fileID: 10}
+  - {fileID: 5}
+  m_Position:
+    serializedVersion: 2
+    x: 0
+    y: 0
+    width: 1259
+    height: 731
+  m_MinSize: {x: 406, y: 492}
+  m_MaxSize: {x: 10002, y: 14042}
+  vertical: 1
+  controlID: 27
+--- !u!114 &10
+MonoBehaviour:
+  m_ObjectHideFlags: 52
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 1
+  m_Script: {fileID: 12010, guid: 0000000000000000e000000000000000, type: 0}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_Children:
+  - {fileID: 4}
+  - {fileID: 11}
+  m_Position:
+    serializedVersion: 2
+    x: 0
+    y: 0
+    width: 1259
+    height: 442
+  m_MinSize: {x: 406, y: 221}
+  m_MaxSize: {x: 8006, y: 4021}
+  vertical: 0
+  controlID: 28
+--- !u!114 &11
+MonoBehaviour:
+  m_ObjectHideFlags: 52
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 1
+  m_Script: {fileID: 12006, guid: 0000000000000000e000000000000000, type: 0}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_Children: []
+  m_Position:
+    serializedVersion: 2
+    x: 311
+    y: 0
+    width: 948
+    height: 442
+  m_MinSize: {x: 204, y: 221}
+  m_MaxSize: {x: 4004, y: 4021}
+  m_ActualView: {fileID: 18}
+  m_Panes:
+  - {fileID: 18}
+  - {fileID: 19}
+  - {fileID: 14}
+  m_Selected: 0
+  m_LastSelected: 1
+--- !u!114 &12
+MonoBehaviour:
+  m_ObjectHideFlags: 52
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 363648761, guid: bb0f8bce6cf1f134084ddba3a243f58f, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_AutoRepaintOnSceneChange: 0
+  m_MinSize: {x: 100, y: 100}
+  m_MaxSize: {x: 4000, y: 4000}
+  m_TitleContent:
+    m_Text: GitHub
+    m_Image: {fileID: 0}
+    m_Tooltip: 
+  m_DepthBufferBits: 0
+  m_Pos:
+    serializedVersion: 2
+    x: 1261
+    y: 92
+    width: 275
+    height: 710
+  m_PersistentViewDataDictionary: {fileID: 0}
+  changeTab: 3
+  activeTab: 3
+  initProjectView:
+    hasCompletedInitialCheck: 1
+    isUserDataPresent: 1
+    lastCheckUserChangedEvent:
+      updatedTimeString: 2018-04-26T10:09:31.6132263+02:00
+      cacheType: 7
+  branchesView:
+    treeLocals:
+      IsRemote: 0
+      folders:
+        keys:
+        - Local branches
+        values:
+        - path: Local branches
+          label: Local branches
+          level: 0
+          isFolder: 1
+          isContainer: 0
+          isCollapsed: 0
+          isHidden: 0
+          isActive: 0
+          treeIsCheckable: 0
+          checkState: 0
+      checkedFileNodes:
+        keys: []
+        values: []
+      title: Local branches
+      pathSeparator: /
+      displayRootNode: 1
+      isSelectable: 1
+      isCheckable: 0
+      nodes:
+      - path: Local branches
+        label: Local branches
+        level: 0
+        isFolder: 1
+        isContainer: 0
+        isCollapsed: 0
+        isHidden: 0
+        isActive: 0
+        treeIsCheckable: 0
+        checkState: 0
+      - path: master
+        label: master
+        level: 1
+        isFolder: 0
+        isContainer: 0
+        isCollapsed: 0
+        isHidden: 0
+        isActive: 1
+        treeIsCheckable: 0
+        checkState: 0
+      selectedNode:
+        path: 
+        label: 
+        level: 0
+        isFolder: 0
+        isContainer: 0
+        isCollapsed: 0
+        isHidden: 0
+        isActive: 0
+        treeIsCheckable: 0
+        checkState: 0
+    treeRemotes:
+      IsRemote: 1
+      folders:
+        keys:
+        - Remote branches
+        values:
+        - path: Remote branches
+          label: Remote branches
+          level: 0
+          isFolder: 1
+          isContainer: 0
+          isCollapsed: 0
+          isHidden: 0
+          isActive: 0
+          treeIsCheckable: 0
+          checkState: 0
+      checkedFileNodes:
+        keys: []
+        values: []
+      title: Remote branches
+      pathSeparator: /
+      displayRootNode: 1
+      isSelectable: 1
+      isCheckable: 0
+      nodes:
+      - path: Remote branches
+        label: Remote branches
+        level: 0
+        isFolder: 1
+        isContainer: 0
+        isCollapsed: 0
+        isHidden: 0
+        isActive: 0
+        treeIsCheckable: 0
+        checkState: 0
+      selectedNode:
+        path: 
+        label: 
+        level: 0
+        isFolder: 0
+        isContainer: 0
+        isCollapsed: 0
+        isHidden: 0
+        isActive: 0
+        treeIsCheckable: 0
+        checkState: 0
+    mode: 0
+    newBranchName: 
+    scroll: {x: 0, y: 0}
+    disableDelete: 1
+    disableCreate: 1
+    lastLocalAndRemoteBranchListChangedEvent:
+      updatedTimeString: 2018-04-26T10:09:41.6049928+02:00
+      cacheType: 2
+    lastCurrentBranchAndRemoteChange:
+      updatedTimeString: 2018-04-26T10:09:38.6698233+02:00
+      cacheType: 1
+    currentBranch:
+      name: master
+      tracking: '[None]'
+    currentRemote:
+      name: 
+      url: 
+      login: 
+      user: 
+      host: 
+      function: 0
+      token: 
+    localBranches:
+    - name: master
+      tracking: '[None]'
+    remoteBranches: []
+  changesView:
+    commitBody: 
+    commitMessage: 
+    currentBranch: '[master]'
+    treeScroll: {x: 0, y: 1538}
+    treeChanges:
+      assets:
+        keys:
+        - 00000000000000001000000000000000
+        - d4b221c84885c2241a7c9a484606c44e
+        - 3073f8c544e429d4bb6775758c0f797d
+        - cad92998c5182496e8b989b406d9f156
+        - d516f2a1bec6a9645a084ef8c9237132
+        - 0188ec438976e5849b40a2c1ce5f20f9
+        - 136dc24f151211d438acee17aff4e934
+        - c743ae24ee231884887054d20ccdd0ae
+        - c5c83d14802e712408f23409f3c59e26
+        - 15ca2bebf173f2d4484686a03a45b56d
+        - 23c8bee69b591054094d32918f98facd
+        - bb0f8bce6cf1f134084ddba3a243f58f
+        - 49a9622d5e6932245b46b3dbfd4f6562
+        - ecfb28d906a32914d956497c8d3b3395
+        - 636d33ae594884e7d80b569f429d245d
+        - 21206c65839f84d0e9ae14bc1fdc68db
+        - ddb8611e748af425a82a497ac5a98c0c
+        - 1bf89c9fbca28724a8d8fbcf427c47f4
+        - a1ae072c6d0a6fe42881de7c5c8d66eb
+        - 349a2940a5f0bb2428b4689b369e3b60
+        - b455a70c012793a4d94fe976e18140af
+        - 342ebfa2c8e06a24c8b445cf2f2d9784
+        - c6d6cc705b2fa53448f26dd682a4a938
+        - 67a48bef50c8f384ab614ca4fd2f1d25
+        - 7cc881bea450edc4ca7114e23fad3cee
+        - ca9ef9f91d24fab40addaf0deaf60506
+        - c1eb0d289ecf9f34bbd08287ab6c2d87
+        - ba8ad3e6c5be01e448c1f3593515049c
+        - 598f7cc167e65424284e573aff0f1294
+        - 1404afef655b1ce49bfa0ef83799bf50
+        - 6daa66f23a1e5324caec116fb03ca529
+        - 36f73b0d4842ba7448027c0215f522b1
+        - b88cae02c8fab6e47999b50827bb1530
+        - 48c22d5d7479fcb49ab3be0cdd2ccec0
+        - 853cace4d6a11bc47b18d8c391da84bd
+        - d301b02d403f0b14da47c02442ad3731
+        - bc9a5f6325c0832408624f471a6c1425
+        - f9fc9b08ecd899944adf9860b4abd6b6
+        - 790749ba7e4b18141953e39cb13f1b79
+        - a0ded7adcc817ce489fec07977f16d13
+        - 868fbb4c41814baebc00f96e24ede2f8
+        - fe5abeadcbe591e4fa9107fbc02f3998
+        - 99b48d4d4f6a66340ab06bd487d70a45
+        - 151a1d946b98deb4b98445400983ba92
+        - a83159a46d87d2a4f8cec651049b9231
+        - b258fde309e1b1044bb4cb083a026b1f
+        - 00000000000000006000000000000000
+        - 00000000000000007100000000000000
+        - 00000000000000008000000000000000
+        - 0000000000000000b000000000000000
+        - 0000000000000000c000000000000000
+        - 00000000000000006100000000000000
+        - 00000000000000002000000000000000
+        - 00000000000000004100000000000000
+        - 0000000000000000a000000000000000
+        - 00000000000000005100000000000000
+        - 00000000000000004000000000000000
+        - 00000000000000009000000000000000
+        - 00000000000000003000000000000000
+        - 00000000000000007000000000000000
+        - 0000000000000000a100000000000000
+        values:
+        - path: Assets
+          label: Assets
+          level: 0
+          isFolder: 1
+          isContainer: 0
+          isCollapsed: 0
+          isHidden: 0
+          isActive: 0
+          treeIsCheckable: 1
+          checkState: 0
+          isLocked: 0
+          gitStatusEntry:
+            path: 
+            fullPath: 
+            projectPath: 
+            originalPath: 
+            status: 0
+            staged: 0
+        - path: Assets\Plugins
+          label: Plugins
+          level: 1
+          isFolder: 1
+          isContainer: 0
+          isCollapsed: 0
+          isHidden: 0
+          isActive: 0
+          treeIsCheckable: 1
+          checkState: 0
+          isLocked: 0
+          gitStatusEntry:
+            path: 
+            fullPath: 
+            projectPath: 
+            originalPath: 
+            status: 0
+            staged: 0
+        - path: Assets\Plugins\GitHub
+          label: GitHub
+          level: 2
+          isFolder: 1
+          isContainer: 0
+          isCollapsed: 0
+          isHidden: 0
+          isActive: 0
+          treeIsCheckable: 1
+          checkState: 0
+          isLocked: 0
+          gitStatusEntry:
+            path: 
+            fullPath: 
+            projectPath: 
+            originalPath: 
+            status: 0
+            staged: 0
+        - path: Assets\Plugins\GitHub\Editor
+          label: Editor
+          level: 3
+          isFolder: 1
+          isContainer: 0
+          isCollapsed: 0
+          isHidden: 0
+          isActive: 0
+          treeIsCheckable: 1
+          checkState: 0
+          isLocked: 0
+          gitStatusEntry:
+            path: 
+            fullPath: 
+            projectPath: 
+            originalPath: 
+            status: 0
+            staged: 0
+        - path: Assets\Plugins\GitHub\Editor\AsyncBridge.Net35.dll
+          label: AsyncBridge.Net35.dll
+          level: 4
+          isFolder: 0
+          isContainer: 1
+          isCollapsed: 0
+          isHidden: 0
+          isActive: 0
+          treeIsCheckable: 1
+          checkState: 0
+          isLocked: 0
+          gitStatusEntry:
+            path: Assets\Plugins\GitHub\Editor\AsyncBridge.Net35.dll
+            fullPath: C:\Users\ersada\Documents\New Unity Project (2)\Assets\Plugins\GitHub\Editor\AsyncBridge.Net35.dll
+            projectPath: Assets\Plugins\GitHub\Editor\AsyncBridge.Net35.dll
+            originalPath: 
+            status: 1
+            staged: 0
+        - path: Assets\Plugins\GitHub\Editor\CREDITS.txt
+          label: CREDITS.txt
+          level: 4
+          isFolder: 0
+          isContainer: 1
+          isCollapsed: 0
+          isHidden: 0
+          isActive: 0
+          treeIsCheckable: 1
+          checkState: 0
+          isLocked: 0
+          gitStatusEntry:
+            path: Assets\Plugins\GitHub\Editor\CREDITS.txt
+            fullPath: C:\Users\ersada\Documents\New Unity Project (2)\Assets\Plugins\GitHub\Editor\CREDITS.txt
+            projectPath: Assets\Plugins\GitHub\Editor\CREDITS.txt
+            originalPath: 
+            status: 1
+            staged: 0
+        - path: Assets\Plugins\GitHub\Editor\EULA.txt
+          label: EULA.txt
+          level: 4
+          isFolder: 0
+          isContainer: 1
+          isCollapsed: 0
+          isHidden: 0
+          isActive: 0
+          treeIsCheckable: 1
+          checkState: 0
+          isLocked: 0
+          gitStatusEntry:
+            path: Assets\Plugins\GitHub\Editor\EULA.txt
+            fullPath: C:\Users\ersada\Documents\New Unity Project (2)\Assets\Plugins\GitHub\Editor\EULA.txt
+            projectPath: Assets\Plugins\GitHub\Editor\EULA.txt
+            originalPath: 
+            status: 1
+            staged: 0
+        - path: Assets\Plugins\GitHub\Editor\GitHub.Api.dll
+          label: GitHub.Api.dll
+          level: 4
+          isFolder: 0
+          isContainer: 0
+          isCollapsed: 0
+          isHidden: 0
+          isActive: 0
+          treeIsCheckable: 1
+          checkState: 0
+          isLocked: 0
+          gitStatusEntry:
+            path: Assets\Plugins\GitHub\Editor\GitHub.Api.dll
+            fullPath: C:\Users\ersada\Documents\New Unity Project (2)\Assets\Plugins\GitHub\Editor\GitHub.Api.dll
+            projectPath: Assets\Plugins\GitHub\Editor\GitHub.Api.dll
+            originalPath: 
+            status: 1
+            staged: 0
+        - path: Assets\Plugins\GitHub\Editor\GitHub.Api.dll.mdb
+          label: GitHub.Api.dll.mdb
+          level: 4
+          isFolder: 0
+          isContainer: 1
+          isCollapsed: 0
+          isHidden: 0
+          isActive: 0
+          treeIsCheckable: 1
+          checkState: 0
+          isLocked: 0
+          gitStatusEntry:
+            path: Assets\Plugins\GitHub\Editor\GitHub.Api.dll.mdb
+            fullPath: C:\Users\ersada\Documents\New Unity Project (2)\Assets\Plugins\GitHub\Editor\GitHub.Api.dll.mdb
+            projectPath: Assets\Plugins\GitHub\Editor\GitHub.Api.dll.mdb
+            originalPath: 
+            status: 1
+            staged: 0
+        - path: Assets\Plugins\GitHub\Editor\GitHub.Logging.dll
+          label: GitHub.Logging.dll
+          level: 4
+          isFolder: 0
+          isContainer: 0
+          isCollapsed: 0
+          isHidden: 0
+          isActive: 0
+          treeIsCheckable: 1
+          checkState: 0
+          isLocked: 0
+          gitStatusEntry:
+            path: Assets\Plugins\GitHub\Editor\GitHub.Logging.dll
+            fullPath: C:\Users\ersada\Documents\New Unity Project (2)\Assets\Plugins\GitHub\Editor\GitHub.Logging.dll
+            projectPath: Assets\Plugins\GitHub\Editor\GitHub.Logging.dll
+            originalPath: 
+            status: 1
+            staged: 0
+        - path: Assets\Plugins\GitHub\Editor\GitHub.Logging.dll.mdb
+          label: GitHub.Logging.dll.mdb
+          level: 4
+          isFolder: 0
+          isContainer: 1
+          isCollapsed: 0
+          isHidden: 0
+          isActive: 0
+          treeIsCheckable: 1
+          checkState: 0
+          isLocked: 0
+          gitStatusEntry:
+            path: Assets\Plugins\GitHub\Editor\GitHub.Logging.dll.mdb
+            fullPath: C:\Users\ersada\Documents\New Unity Project (2)\Assets\Plugins\GitHub\Editor\GitHub.Logging.dll.mdb
+            projectPath: Assets\Plugins\GitHub\Editor\GitHub.Logging.dll.mdb
+            originalPath: 
+            status: 1
+            staged: 0
+        - path: Assets\Plugins\GitHub\Editor\GitHub.Unity.dll
+          label: GitHub.Unity.dll
+          level: 4
+          isFolder: 0
+          isContainer: 0
+          isCollapsed: 0
+          isHidden: 0
+          isActive: 0
+          treeIsCheckable: 1
+          checkState: 0
+          isLocked: 0
+          gitStatusEntry:
+            path: Assets\Plugins\GitHub\Editor\GitHub.Unity.dll
+            fullPath: C:\Users\ersada\Documents\New Unity Project (2)\Assets\Plugins\GitHub\Editor\GitHub.Unity.dll
+            projectPath: Assets\Plugins\GitHub\Editor\GitHub.Unity.dll
+            originalPath: 
+            status: 1
+            staged: 0
+        - path: Assets\Plugins\GitHub\Editor\GitHub.Unity.dll.mdb
+          label: GitHub.Unity.dll.mdb
+          level: 4
+          isFolder: 0
+          isContainer: 1
+          isCollapsed: 0
+          isHidden: 0
+          isActive: 0
+          treeIsCheckable: 1
+          checkState: 0
+          isLocked: 0
+          gitStatusEntry:
+            path: Assets\Plugins\GitHub\Editor\GitHub.Unity.dll.mdb
+            fullPath: C:\Users\ersada\Documents\New Unity Project (2)\Assets\Plugins\GitHub\Editor\GitHub.Unity.dll.mdb
+            projectPath: Assets\Plugins\GitHub\Editor\GitHub.Unity.dll.mdb
+            originalPath: 
+            status: 1
+            staged: 0
+        - path: Assets\Plugins\GitHub\Editor\ICSharpCode.SharpZipLib.dll
+          label: ICSharpCode.SharpZipLib.dll
+          level: 4
+          isFolder: 0
+          isContainer: 1
+          isCollapsed: 0
+          isHidden: 0
+          isActive: 0
+          treeIsCheckable: 1
+          checkState: 0
+          isLocked: 0
+          gitStatusEntry:
+            path: Assets\Plugins\GitHub\Editor\ICSharpCode.SharpZipLib.dll
+            fullPath: C:\Users\ersada\Documents\New Unity Project (2)\Assets\Plugins\GitHub\Editor\ICSharpCode.SharpZipLib.dll
+            projectPath: Assets\Plugins\GitHub\Editor\ICSharpCode.SharpZipLib.dll
+            originalPath: 
+            status: 1
+            staged: 0
+        - path: Assets\Plugins\GitHub\Editor\libsfw.bundle
+          label: libsfw.bundle
+          level: 4
+          isFolder: 0
+          isContainer: 1
+          isCollapsed: 0
+          isHidden: 0
+          isActive: 0
+          treeIsCheckable: 1
+          checkState: 0
+          isLocked: 0
+          gitStatusEntry:
+            path: Assets\Plugins\GitHub\Editor\libsfw.bundle
+            fullPath: C:\Users\ersada\Documents\New Unity Project (2)\Assets\Plugins\GitHub\Editor\libsfw.bundle
+            projectPath: Assets\Plugins\GitHub\Editor\libsfw.bundle
+            originalPath: 
+            status: 1
+            staged: 0
+        - path: Assets\Plugins\GitHub\Editor\libsfw.so
+          label: libsfw.so
+          level: 4
+          isFolder: 0
+          isContainer: 1
+          isCollapsed: 0
+          isHidden: 0
+          isActive: 0
+          treeIsCheckable: 1
+          checkState: 0
+          isLocked: 0
+          gitStatusEntry:
+            path: Assets\Plugins\GitHub\Editor\libsfw.so
+            fullPath: C:\Users\ersada\Documents\New Unity Project (2)\Assets\Plugins\GitHub\Editor\libsfw.so
+            projectPath: Assets\Plugins\GitHub\Editor\libsfw.so
+            originalPath: 
+            status: 1
+            staged: 0
+        - path: Assets\Plugins\GitHub\Editor\Mono.Posix.dll
+          label: Mono.Posix.dll
+          level: 4
+          isFolder: 0
+          isContainer: 1
+          isCollapsed: 0
+          isHidden: 0
+          isActive: 0
+          treeIsCheckable: 1
+          checkState: 0
+          isLocked: 0
+          gitStatusEntry:
+            path: Assets\Plugins\GitHub\Editor\Mono.Posix.dll
+            fullPath: C:\Users\ersada\Documents\New Unity Project (2)\Assets\Plugins\GitHub\Editor\Mono.Posix.dll
+            projectPath: Assets\Plugins\GitHub\Editor\Mono.Posix.dll
+            originalPath: 
+            status: 1
+            staged: 0
+        - path: Assets\Plugins\GitHub\Editor\Mono.Security.dll
+          label: Mono.Security.dll
+          level: 4
+          isFolder: 0
+          isContainer: 1
+          isCollapsed: 0
+          isHidden: 0
+          isActive: 0
+          treeIsCheckable: 1
+          checkState: 0
+          isLocked: 0
+          gitStatusEntry:
+            path: Assets\Plugins\GitHub\Editor\Mono.Security.dll
+            fullPath: C:\Users\ersada\Documents\New Unity Project (2)\Assets\Plugins\GitHub\Editor\Mono.Security.dll
+            projectPath: Assets\Plugins\GitHub\Editor\Mono.Security.dll
+            originalPath: 
+            status: 1
+            staged: 0
+        - path: Assets\Plugins\GitHub\Editor\PlatformResources
+          label: PlatformResources
+          level: 4
+          isFolder: 1
+          isContainer: 0
+          isCollapsed: 0
+          isHidden: 0
+          isActive: 0
+          treeIsCheckable: 1
+          checkState: 0
+          isLocked: 0
+          gitStatusEntry:
+            path: 
+            fullPath: 
+            projectPath: 
+            originalPath: 
+            status: 0
+            staged: 0
+        - path: Assets\Plugins\GitHub\Editor\PlatformResources\linux
+          label: linux
+          level: 5
+          isFolder: 1
+          isContainer: 0
+          isCollapsed: 0
+          isHidden: 0
+          isActive: 0
+          treeIsCheckable: 1
+          checkState: 0
+          isLocked: 0
+          gitStatusEntry:
+            path: 
+            fullPath: 
+            projectPath: 
+            originalPath: 
+            status: 0
+            staged: 0
+        - path: Assets\Plugins\GitHub\Editor\PlatformResources\linux\gitconfig
+          label: gitconfig
+          level: 6
+          isFolder: 0
+          isContainer: 1
+          isCollapsed: 0
+          isHidden: 0
+          isActive: 0
+          treeIsCheckable: 1
+          checkState: 0
+          isLocked: 0
+          gitStatusEntry:
+            path: Assets\Plugins\GitHub\Editor\PlatformResources\linux\gitconfig
+            fullPath: C:\Users\ersada\Documents\New Unity Project (2)\Assets\Plugins\GitHub\Editor\PlatformResources\linux\gitconfig
+            projectPath: Assets\Plugins\GitHub\Editor\PlatformResources\linux\gitconfig
+            originalPath: 
+            status: 1
+            staged: 0
+        - path: Assets\Plugins\GitHub\Editor\PlatformResources\linux\git-lfs.zip
+          label: git-lfs.zip
+          level: 6
+          isFolder: 0
+          isContainer: 0
+          isCollapsed: 0
+          isHidden: 0
+          isActive: 0
+          treeIsCheckable: 1
+          checkState: 0
+          isLocked: 0
+          gitStatusEntry:
+            path: Assets\Plugins\GitHub\Editor\PlatformResources\linux\git-lfs.zip
+            fullPath: C:\Users\ersada\Documents\New Unity Project (2)\Assets\Plugins\GitHub\Editor\PlatformResources\linux\git-lfs.zip
+            projectPath: Assets\Plugins\GitHub\Editor\PlatformResources\linux\git-lfs.zip
+            originalPath: 
+            status: 1
+            staged: 0
+        - path: Assets\Plugins\GitHub\Editor\PlatformResources\linux\git-lfs.zip.md5
+          label: git-lfs.zip.md5
+          level: 6
+          isFolder: 0
+          isContainer: 1
+          isCollapsed: 0
+          isHidden: 0
+          isActive: 0
+          treeIsCheckable: 1
+          checkState: 0
+          isLocked: 0
+          gitStatusEntry:
+            path: Assets\Plugins\GitHub\Editor\PlatformResources\linux\git-lfs.zip.md5
+            fullPath: C:\Users\ersada\Documents\New Unity Project (2)\Assets\Plugins\GitHub\Editor\PlatformResources\linux\git-lfs.zip.md5
+            projectPath: Assets\Plugins\GitHub\Editor\PlatformResources\linux\git-lfs.zip.md5
+            originalPath: 
+            status: 1
+            staged: 0
+        - path: Assets\Plugins\GitHub\Editor\PlatformResources\mac
+          label: mac
+          level: 5
+          isFolder: 1
+          isContainer: 0
+          isCollapsed: 0
+          isHidden: 0
+          isActive: 0
+          treeIsCheckable: 1
+          checkState: 0
+          isLocked: 0
+          gitStatusEntry:
+            path: 
+            fullPath: 
+            projectPath: 
+            originalPath: 
+            status: 0
+            staged: 0
+        - path: Assets\Plugins\GitHub\Editor\PlatformResources\mac\gitconfig
+          label: gitconfig
+          level: 6
+          isFolder: 0
+          isContainer: 1
+          isCollapsed: 0
+          isHidden: 0
+          isActive: 0
+          treeIsCheckable: 1
+          checkState: 0
+          isLocked: 0
+          gitStatusEntry:
+            path: Assets\Plugins\GitHub\Editor\PlatformResources\mac\gitconfig
+            fullPath: C:\Users\ersada\Documents\New Unity Project (2)\Assets\Plugins\GitHub\Editor\PlatformResources\mac\gitconfig
+            projectPath: Assets\Plugins\GitHub\Editor\PlatformResources\mac\gitconfig
+            originalPath: 
+            status: 1
+            staged: 0
+        - path: Assets\Plugins\GitHub\Editor\PlatformResources\mac\git-lfs.zip
+          label: git-lfs.zip
+          level: 6
+          isFolder: 0
+          isContainer: 0
+          isCollapsed: 0
+          isHidden: 0
+          isActive: 0
+          treeIsCheckable: 1
+          checkState: 0
+          isLocked: 0
+          gitStatusEntry:
+            path: Assets\Plugins\GitHub\Editor\PlatformResources\mac\git-lfs.zip
+            fullPath: C:\Users\ersada\Documents\New Unity Project (2)\Assets\Plugins\GitHub\Editor\PlatformResources\mac\git-lfs.zip
+            projectPath: Assets\Plugins\GitHub\Editor\PlatformResources\mac\git-lfs.zip
+            originalPath: 
+            status: 1
+            staged: 0
+        - path: Assets\Plugins\GitHub\Editor\PlatformResources\mac\git-lfs.zip.md5
+          label: git-lfs.zip.md5
+          level: 6
+          isFolder: 0
+          isContainer: 1
+          isCollapsed: 0
+          isHidden: 0
+          isActive: 0
+          treeIsCheckable: 1
+          checkState: 0
+          isLocked: 0
+          gitStatusEntry:
+            path: Assets\Plugins\GitHub\Editor\PlatformResources\mac\git-lfs.zip.md5
+            fullPath: C:\Users\ersada\Documents\New Unity Project (2)\Assets\Plugins\GitHub\Editor\PlatformResources\mac\git-lfs.zip.md5
+            projectPath: Assets\Plugins\GitHub\Editor\PlatformResources\mac\git-lfs.zip.md5
+            originalPath: 
+            status: 1
+            staged: 0
+        - path: Assets\Plugins\GitHub\Editor\PlatformResources\windows
+          label: windows
+          level: 5
+          isFolder: 1
+          isContainer: 0
+          isCollapsed: 0
+          isHidden: 0
+          isActive: 0
+          treeIsCheckable: 1
+          checkState: 0
+          isLocked: 0
+          gitStatusEntry:
+            path: 
+            fullPath: 
+            projectPath: 
+            originalPath: 
+            status: 0
+            staged: 0
+        - path: Assets\Plugins\GitHub\Editor\PlatformResources\windows\git.zip
+          label: git.zip
+          level: 6
+          isFolder: 0
+          isContainer: 0
+          isCollapsed: 0
+          isHidden: 0
+          isActive: 0
+          treeIsCheckable: 1
+          checkState: 0
+          isLocked: 0
+          gitStatusEntry:
+            path: Assets\Plugins\GitHub\Editor\PlatformResources\windows\git.zip
+            fullPath: C:\Users\ersada\Documents\New Unity Project (2)\Assets\Plugins\GitHub\Editor\PlatformResources\windows\git.zip
+            projectPath: Assets\Plugins\GitHub\Editor\PlatformResources\windows\git.zip
+            originalPath: 
+            status: 1
+            staged: 0
+        - path: Assets\Plugins\GitHub\Editor\PlatformResources\windows\git.zip.md5
+          label: git.zip.md5
+          level: 6
+          isFolder: 0
+          isContainer: 1
+          isCollapsed: 0
+          isHidden: 0
+          isActive: 0
+          treeIsCheckable: 1
+          checkState: 0
+          isLocked: 0
+          gitStatusEntry:
+            path: Assets\Plugins\GitHub\Editor\PlatformResources\windows\git.zip.md5
+            fullPath: C:\Users\ersada\Documents\New Unity Project (2)\Assets\Plugins\GitHub\Editor\PlatformResources\windows\git.zip.md5
+            projectPath: Assets\Plugins\GitHub\Editor\PlatformResources\windows\git.zip.md5
+            originalPath: 
+            status: 1
+            staged: 0
+        - path: Assets\Plugins\GitHub\Editor\PlatformResources\windows\gitconfig
+          label: gitconfig
+          level: 6
+          isFolder: 0
+          isContainer: 1
+          isCollapsed: 0
+          isHidden: 0
+          isActive: 0
+          treeIsCheckable: 1
+          checkState: 0
+          isLocked: 0
+          gitStatusEntry:
+            path: Assets\Plugins\GitHub\Editor\PlatformResources\windows\gitconfig
+            fullPath: C:\Users\ersada\Documents\New Unity Project (2)\Assets\Plugins\GitHub\Editor\PlatformResources\windows\gitconfig
+            projectPath: Assets\Plugins\GitHub\Editor\PlatformResources\windows\gitconfig
+            originalPath: 
+            status: 1
+            staged: 0
+        - path: Assets\Plugins\GitHub\Editor\PlatformResources\windows\git-lfs.zip
+          label: git-lfs.zip
+          level: 6
+          isFolder: 0
+          isContainer: 0
+          isCollapsed: 0
+          isHidden: 0
+          isActive: 0
+          treeIsCheckable: 1
+          checkState: 0
+          isLocked: 0
+          gitStatusEntry:
+            path: Assets\Plugins\GitHub\Editor\PlatformResources\windows\git-lfs.zip
+            fullPath: C:\Users\ersada\Documents\New Unity Project (2)\Assets\Plugins\GitHub\Editor\PlatformResources\windows\git-lfs.zip
+            projectPath: Assets\Plugins\GitHub\Editor\PlatformResources\windows\git-lfs.zip
+            originalPath: 
+            status: 1
+            staged: 0
+        - path: Assets\Plugins\GitHub\Editor\PlatformResources\windows\git-lfs.zip.md5
+          label: git-lfs.zip.md5
+          level: 6
+          isFolder: 0
+          isContainer: 1
+          isCollapsed: 0
+          isHidden: 0
+          isActive: 0
+          treeIsCheckable: 1
+          checkState: 0
+          isLocked: 0
+          gitStatusEntry:
+            path: Assets\Plugins\GitHub\Editor\PlatformResources\windows\git-lfs.zip.md5
+            fullPath: C:\Users\ersada\Documents\New Unity Project (2)\Assets\Plugins\GitHub\Editor\PlatformResources\windows\git-lfs.zip.md5
+            projectPath: Assets\Plugins\GitHub\Editor\PlatformResources\windows\git-lfs.zip.md5
+            originalPath: 
+            status: 1
+            staged: 0
+        - path: Assets\Plugins\GitHub\Editor\ReadOnlyCollectionsInterfaces.dll
+          label: ReadOnlyCollectionsInterfaces.dll
+          level: 4
+          isFolder: 0
+          isContainer: 1
+          isCollapsed: 0
+          isHidden: 0
+          isActive: 0
+          treeIsCheckable: 1
+          checkState: 0
+          isLocked: 0
+          gitStatusEntry:
+            path: Assets\Plugins\GitHub\Editor\ReadOnlyCollectionsInterfaces.dll
+            fullPath: C:\Users\ersada\Documents\New Unity Project (2)\Assets\Plugins\GitHub\Editor\ReadOnlyCollectionsInterfaces.dll
+            projectPath: Assets\Plugins\GitHub\Editor\ReadOnlyCollectionsInterfaces.dll
+            originalPath: 
+            status: 1
+            staged: 0
+        - path: Assets\Plugins\GitHub\Editor\Resources
+          label: Resources
+          level: 4
+          isFolder: 1
+          isContainer: 0
+          isCollapsed: 0
+          isHidden: 0
+          isActive: 0
+          treeIsCheckable: 1
+          checkState: 0
+          isLocked: 0
+          gitStatusEntry:
+            path: 
+            fullPath: 
+            projectPath: 
+            originalPath: 
+            status: 0
+            staged: 0
+        - path: Assets\Plugins\GitHub\Editor\Resources\octorun.zip
+          label: octorun.zip
+          level: 5
+          isFolder: 0
+          isContainer: 0
+          isCollapsed: 0
+          isHidden: 0
+          isActive: 0
+          treeIsCheckable: 1
+          checkState: 0
+          isLocked: 0
+          gitStatusEntry:
+            path: Assets\Plugins\GitHub\Editor\Resources\octorun.zip
+            fullPath: C:\Users\ersada\Documents\New Unity Project (2)\Assets\Plugins\GitHub\Editor\Resources\octorun.zip
+            projectPath: Assets\Plugins\GitHub\Editor\Resources\octorun.zip
+            originalPath: 
+            status: 1
+            staged: 0
+        - path: Assets\Plugins\GitHub\Editor\Resources\octorun.zip.md5
+          label: octorun.zip.md5
+          level: 5
+          isFolder: 0
+          isContainer: 1
+          isCollapsed: 0
+          isHidden: 0
+          isActive: 0
+          treeIsCheckable: 1
+          checkState: 0
+          isLocked: 0
+          gitStatusEntry:
+            path: Assets\Plugins\GitHub\Editor\Resources\octorun.zip.md5
+            fullPath: C:\Users\ersada\Documents\New Unity Project (2)\Assets\Plugins\GitHub\Editor\Resources\octorun.zip.md5
+            projectPath: Assets\Plugins\GitHub\Editor\Resources\octorun.zip.md5
+            originalPath: 
+            status: 1
+            staged: 0
+        - path: Assets\Plugins\GitHub\Editor\sfw.net.dll
+          label: sfw.net.dll
+          level: 4
+          isFolder: 0
+          isContainer: 1
+          isCollapsed: 0
+          isHidden: 0
+          isActive: 0
+          treeIsCheckable: 1
+          checkState: 0
+          isLocked: 0
+          gitStatusEntry:
+            path: Assets\Plugins\GitHub\Editor\sfw.net.dll
+            fullPath: C:\Users\ersada\Documents\New Unity Project (2)\Assets\Plugins\GitHub\Editor\sfw.net.dll
+            projectPath: Assets\Plugins\GitHub\Editor\sfw.net.dll
+            originalPath: 
+            status: 1
+            staged: 0
+        - path: Assets\Plugins\GitHub\Editor\System.Threading.dll
+          label: System.Threading.dll
+          level: 4
+          isFolder: 0
+          isContainer: 1
+          isCollapsed: 0
+          isHidden: 0
+          isActive: 0
+          treeIsCheckable: 1
+          checkState: 0
+          isLocked: 0
+          gitStatusEntry:
+            path: Assets\Plugins\GitHub\Editor\System.Threading.dll
+            fullPath: C:\Users\ersada\Documents\New Unity Project (2)\Assets\Plugins\GitHub\Editor\System.Threading.dll
+            projectPath: Assets\Plugins\GitHub\Editor\System.Threading.dll
+            originalPath: 
+            status: 1
+            staged: 0
+        - path: Assets\Plugins\GitHub\Editor\x64
+          label: x64
+          level: 4
+          isFolder: 1
+          isContainer: 0
+          isCollapsed: 0
+          isHidden: 0
+          isActive: 0
+          treeIsCheckable: 1
+          checkState: 0
+          isLocked: 0
+          gitStatusEntry:
+            path: 
+            fullPath: 
+            projectPath: 
+            originalPath: 
+            status: 0
+            staged: 0
+        - path: Assets\Plugins\GitHub\Editor\x64\pthreadVC2.dll
+          label: pthreadVC2.dll
+          level: 5
+          isFolder: 0
+          isContainer: 1
+          isCollapsed: 0
+          isHidden: 0
+          isActive: 0
+          treeIsCheckable: 1
+          checkState: 0
+          isLocked: 0
+          gitStatusEntry:
+            path: Assets\Plugins\GitHub\Editor\x64\pthreadVC2.dll
+            fullPath: C:\Users\ersada\Documents\New Unity Project (2)\Assets\Plugins\GitHub\Editor\x64\pthreadVC2.dll
+            projectPath: Assets\Plugins\GitHub\Editor\x64\pthreadVC2.dll
+            originalPath: 
+            status: 1
+            staged: 0
+        - path: Assets\Plugins\GitHub\Editor\x64\sfw_x64.dll
+          label: sfw_x64.dll
+          level: 5
+          isFolder: 0
+          isContainer: 1
+          isCollapsed: 0
+          isHidden: 0
+          isActive: 0
+          treeIsCheckable: 1
+          checkState: 0
+          isLocked: 0
+          gitStatusEntry:
+            path: Assets\Plugins\GitHub\Editor\x64\sfw_x64.dll
+            fullPath: C:\Users\ersada\Documents\New Unity Project (2)\Assets\Plugins\GitHub\Editor\x64\sfw_x64.dll
+            projectPath: Assets\Plugins\GitHub\Editor\x64\sfw_x64.dll
+            originalPath: 
+            status: 1
+            staged: 0
+        - path: Assets\Plugins\GitHub\Editor\x86
+          label: x86
+          level: 4
+          isFolder: 1
+          isContainer: 0
+          isCollapsed: 0
+          isHidden: 0
+          isActive: 0
+          treeIsCheckable: 1
+          checkState: 0
+          isLocked: 0
+          gitStatusEntry:
+            path: 
+            fullPath: 
+            projectPath: 
+            originalPath: 
+            status: 0
+            staged: 0
+        - path: Assets\Plugins\GitHub\Editor\x86\pthreadVC2.dll
+          label: pthreadVC2.dll
+          level: 5
+          isFolder: 0
+          isContainer: 1
+          isCollapsed: 0
+          isHidden: 0
+          isActive: 0
+          treeIsCheckable: 1
+          checkState: 0
+          isLocked: 0
+          gitStatusEntry:
+            path: Assets\Plugins\GitHub\Editor\x86\pthreadVC2.dll
+            fullPath: C:\Users\ersada\Documents\New Unity Project (2)\Assets\Plugins\GitHub\Editor\x86\pthreadVC2.dll
+            projectPath: Assets\Plugins\GitHub\Editor\x86\pthreadVC2.dll
+            originalPath: 
+            status: 1
+            staged: 0
+        - path: Assets\Plugins\GitHub\Editor\x86\sfw_x86.dll
+          label: sfw_x86.dll
+          level: 5
+          isFolder: 0
+          isContainer: 1
+          isCollapsed: 0
+          isHidden: 0
+          isActive: 0
+          treeIsCheckable: 1
+          checkState: 0
+          isLocked: 0
+          gitStatusEntry:
+            path: Assets\Plugins\GitHub\Editor\x86\sfw_x86.dll
+            fullPath: C:\Users\ersada\Documents\New Unity Project (2)\Assets\Plugins\GitHub\Editor\x86\sfw_x86.dll
+            projectPath: Assets\Plugins\GitHub\Editor\x86\sfw_x86.dll
+            originalPath: 
+            status: 1
+            staged: 0
+        - path: Assets\test_project.unity
+          label: test_project.unity
+          level: 1
+          isFolder: 0
+          isContainer: 1
+          isCollapsed: 0
+          isHidden: 0
+          isActive: 0
+          treeIsCheckable: 1
+          checkState: 0
+          isLocked: 0
+          gitStatusEntry:
+            path: Assets\test_project.unity
+            fullPath: C:\Users\ersada\Documents\New Unity Project (2)\Assets\test_project.unity
+            projectPath: Assets\test_project.unity
+            originalPath: 
+            status: 1
+            staged: 0
+        - path: ProjectSettings\AudioManager.asset
+          label: AudioManager.asset
+          level: 1
+          isFolder: 0
+          isContainer: 0
+          isCollapsed: 0
+          isHidden: 0
+          isActive: 0
+          treeIsCheckable: 1
+          checkState: 0
+          isLocked: 0
+          gitStatusEntry:
+            path: ProjectSettings\AudioManager.asset
+            fullPath: C:\Users\ersada\Documents\New Unity Project (2)\ProjectSettings\AudioManager.asset
+            projectPath: ProjectSettings\AudioManager.asset
+            originalPath: 
+            status: 1
+            staged: 0
+        - path: ProjectSettings\ClusterInputManager.asset
+          label: ClusterInputManager.asset
+          level: 1
+          isFolder: 0
+          isContainer: 0
+          isCollapsed: 0
+          isHidden: 0
+          isActive: 0
+          treeIsCheckable: 1
+          checkState: 0
+          isLocked: 0
+          gitStatusEntry:
+            path: ProjectSettings\ClusterInputManager.asset
+            fullPath: C:\Users\ersada\Documents\New Unity Project (2)\ProjectSettings\ClusterInputManager.asset
+            projectPath: ProjectSettings\ClusterInputManager.asset
+            originalPath: 
+            status: 1
+            staged: 0
+        - path: ProjectSettings\DynamicsManager.asset
+          label: DynamicsManager.asset
+          level: 1
+          isFolder: 0
+          isContainer: 0
+          isCollapsed: 0
+          isHidden: 0
+          isActive: 0
+          treeIsCheckable: 1
+          checkState: 0
+          isLocked: 0
+          gitStatusEntry:
+            path: ProjectSettings\DynamicsManager.asset
+            fullPath: C:\Users\ersada\Documents\New Unity Project (2)\ProjectSettings\DynamicsManager.asset
+            projectPath: ProjectSettings\DynamicsManager.asset
+            originalPath: 
+            status: 1
+            staged: 0
+        - path: ProjectSettings\EditorBuildSettings.asset
+          label: EditorBuildSettings.asset
+          level: 1
+          isFolder: 0
+          isContainer: 0
+          isCollapsed: 0
+          isHidden: 0
+          isActive: 0
+          treeIsCheckable: 1
+          checkState: 0
+          isLocked: 0
+          gitStatusEntry:
+            path: ProjectSettings\EditorBuildSettings.asset
+            fullPath: C:\Users\ersada\Documents\New Unity Project (2)\ProjectSettings\EditorBuildSettings.asset
+            projectPath: ProjectSettings\EditorBuildSettings.asset
+            originalPath: 
+            status: 1
+            staged: 0
+        - path: ProjectSettings\EditorSettings.asset
+          label: EditorSettings.asset
+          level: 1
+          isFolder: 0
+          isContainer: 0
+          isCollapsed: 0
+          isHidden: 0
+          isActive: 0
+          treeIsCheckable: 1
+          checkState: 0
+          isLocked: 0
+          gitStatusEntry:
+            path: ProjectSettings\EditorSettings.asset
+            fullPath: C:\Users\ersada\Documents\New Unity Project (2)\ProjectSettings\EditorSettings.asset
+            projectPath: ProjectSettings\EditorSettings.asset
+            originalPath: 
+            status: 1
+            staged: 0
+        - path: ProjectSettings\GraphicsSettings.asset
+          label: GraphicsSettings.asset
+          level: 1
+          isFolder: 0
+          isContainer: 0
+          isCollapsed: 0
+          isHidden: 0
+          isActive: 0
+          treeIsCheckable: 1
+          checkState: 0
+          isLocked: 0
+          gitStatusEntry:
+            path: ProjectSettings\GraphicsSettings.asset
+            fullPath: C:\Users\ersada\Documents\New Unity Project (2)\ProjectSettings\GraphicsSettings.asset
+            projectPath: ProjectSettings\GraphicsSettings.asset
+            originalPath: 
+            status: 1
+            staged: 0
+        - path: ProjectSettings\InputManager.asset
+          label: InputManager.asset
+          level: 1
+          isFolder: 0
+          isContainer: 0
+          isCollapsed: 0
+          isHidden: 0
+          isActive: 0
+          treeIsCheckable: 1
+          checkState: 0
+          isLocked: 0
+          gitStatusEntry:
+            path: ProjectSettings\InputManager.asset
+            fullPath: C:\Users\ersada\Documents\New Unity Project (2)\ProjectSettings\InputManager.asset
+            projectPath: ProjectSettings\InputManager.asset
+            originalPath: 
+            status: 1
+            staged: 0
+        - path: ProjectSettings\NavMeshAreas.asset
+          label: NavMeshAreas.asset
+          level: 1
+          isFolder: 0
+          isContainer: 0
+          isCollapsed: 0
+          isHidden: 0
+          isActive: 0
+          treeIsCheckable: 1
+          checkState: 0
+          isLocked: 0
+          gitStatusEntry:
+            path: ProjectSettings\NavMeshAreas.asset
+            fullPath: C:\Users\ersada\Documents\New Unity Project (2)\ProjectSettings\NavMeshAreas.asset
+            projectPath: ProjectSettings\NavMeshAreas.asset
+            originalPath: 
+            status: 1
+            staged: 0
+        - path: ProjectSettings\NetworkManager.asset
+          label: NetworkManager.asset
+          level: 1
+          isFolder: 0
+          isContainer: 0
+          isCollapsed: 0
+          isHidden: 0
+          isActive: 0
+          treeIsCheckable: 1
+          checkState: 0
+          isLocked: 0
+          gitStatusEntry:
+            path: ProjectSettings\NetworkManager.asset
+            fullPath: C:\Users\ersada\Documents\New Unity Project (2)\ProjectSettings\NetworkManager.asset
+            projectPath: ProjectSettings\NetworkManager.asset
+            originalPath: 
+            status: 1
+            staged: 0
+        - path: ProjectSettings\Physics2DSettings.asset
+          label: Physics2DSettings.asset
+          level: 1
+          isFolder: 0
+          isContainer: 0
+          isCollapsed: 0
+          isHidden: 0
+          isActive: 0
+          treeIsCheckable: 1
+          checkState: 0
+          isLocked: 0
+          gitStatusEntry:
+            path: ProjectSettings\Physics2DSettings.asset
+            fullPath: C:\Users\ersada\Documents\New Unity Project (2)\ProjectSettings\Physics2DSettings.asset
+            projectPath: ProjectSettings\Physics2DSettings.asset
+            originalPath: 
+            status: 1
+            staged: 0
+        - path: ProjectSettings\ProjectSettings.asset
+          label: ProjectSettings.asset
+          level: 1
+          isFolder: 0
+          isContainer: 0
+          isCollapsed: 0
+          isHidden: 0
+          isActive: 0
+          treeIsCheckable: 1
+          checkState: 0
+          isLocked: 0
+          gitStatusEntry:
+            path: ProjectSettings\ProjectSettings.asset
+            fullPath: C:\Users\ersada\Documents\New Unity Project (2)\ProjectSettings\ProjectSettings.asset
+            projectPath: ProjectSettings\ProjectSettings.asset
+            originalPath: 
+            status: 1
+            staged: 0
+        - path: ProjectSettings\QualitySettings.asset
+          label: QualitySettings.asset
+          level: 1
+          isFolder: 0
+          isContainer: 0
+          isCollapsed: 0
+          isHidden: 0
+          isActive: 0
+          treeIsCheckable: 1
+          checkState: 0
+          isLocked: 0
+          gitStatusEntry:
+            path: ProjectSettings\QualitySettings.asset
+            fullPath: C:\Users\ersada\Documents\New Unity Project (2)\ProjectSettings\QualitySettings.asset
+            projectPath: ProjectSettings\QualitySettings.asset
+            originalPath: 
+            status: 1
+            staged: 0
+        - path: ProjectSettings\TagManager.asset
+          label: TagManager.asset
+          level: 1
+          isFolder: 0
+          isContainer: 0
+          isCollapsed: 0
+          isHidden: 0
+          isActive: 0
+          treeIsCheckable: 1
+          checkState: 0
+          isLocked: 0
+          gitStatusEntry:
+            path: ProjectSettings\TagManager.asset
+            fullPath: C:\Users\ersada\Documents\New Unity Project (2)\ProjectSettings\TagManager.asset
+            projectPath: ProjectSettings\TagManager.asset
+            originalPath: 
+            status: 1
+            staged: 0
+        - path: ProjectSettings\TimeManager.asset
+          label: TimeManager.asset
+          level: 1
+          isFolder: 0
+          isContainer: 0
+          isCollapsed: 0
+          isHidden: 0
+          isActive: 0
+          treeIsCheckable: 1
+          checkState: 0
+          isLocked: 0
+          gitStatusEntry:
+            path: ProjectSettings\TimeManager.asset
+            fullPath: C:\Users\ersada\Documents\New Unity Project (2)\ProjectSettings\TimeManager.asset
+            projectPath: ProjectSettings\TimeManager.asset
+            originalPath: 
+            status: 1
+            staged: 0
+        - path: ProjectSettings\UnityConnectSettings.asset
+          label: UnityConnectSettings.asset
+          level: 1
+          isFolder: 0
+          isContainer: 0
+          isCollapsed: 0
+          isHidden: 0
+          isActive: 0
+          treeIsCheckable: 1
+          checkState: 0
+          isLocked: 0
+          gitStatusEntry:
+            path: ProjectSettings\UnityConnectSettings.asset
+            fullPath: C:\Users\ersada\Documents\New Unity Project (2)\ProjectSettings\UnityConnectSettings.asset
+            projectPath: ProjectSettings\UnityConnectSettings.asset
+            originalPath: 
+            status: 1
+            staged: 0
+      folders:
+        keys:
+        - Assets
+        - Assets\Plugins
+        - Assets\Plugins\GitHub
+        - Assets\Plugins\GitHub\Editor
+        - Assets\Plugins\GitHub\Editor\PlatformResources
+        - Assets\Plugins\GitHub\Editor\PlatformResources\linux
+        - Assets\Plugins\GitHub\Editor\PlatformResources\mac
+        - Assets\Plugins\GitHub\Editor\PlatformResources\windows
+        - Assets\Plugins\GitHub\Editor\Resources
+        - Assets\Plugins\GitHub\Editor\x64
+        - Assets\Plugins\GitHub\Editor\x86
+        - ProjectSettings
+        - UnityPackageManager
+        values:
+        - path: Assets
+          label: Assets
+          level: 0
+          isFolder: 1
+          isContainer: 0
+          isCollapsed: 0
+          isHidden: 0
+          isActive: 0
+          treeIsCheckable: 1
+          checkState: 0
+          isLocked: 0
+          gitStatusEntry:
+            path: 
+            fullPath: 
+            projectPath: 
+            originalPath: 
+            status: 0
+            staged: 0
+        - path: Assets\Plugins
+          label: Plugins
+          level: 1
+          isFolder: 1
+          isContainer: 0
+          isCollapsed: 0
+          isHidden: 0
+          isActive: 0
+          treeIsCheckable: 1
+          checkState: 0
+          isLocked: 0
+          gitStatusEntry:
+            path: 
+            fullPath: 
+            projectPath: 
+            originalPath: 
+            status: 0
+            staged: 0
+        - path: Assets\Plugins\GitHub
+          label: GitHub
+          level: 2
+          isFolder: 1
+          isContainer: 0
+          isCollapsed: 0
+          isHidden: 0
+          isActive: 0
+          treeIsCheckable: 1
+          checkState: 0
+          isLocked: 0
+          gitStatusEntry:
+            path: 
+            fullPath: 
+            projectPath: 
+            originalPath: 
+            status: 0
+            staged: 0
+        - path: Assets\Plugins\GitHub\Editor
+          label: Editor
+          level: 3
+          isFolder: 1
+          isContainer: 0
+          isCollapsed: 0
+          isHidden: 0
+          isActive: 0
+          treeIsCheckable: 1
+          checkState: 0
+          isLocked: 0
+          gitStatusEntry:
+            path: 
+            fullPath: 
+            projectPath: 
+            originalPath: 
+            status: 0
+            staged: 0
+        - path: Assets\Plugins\GitHub\Editor\PlatformResources
+          label: PlatformResources
+          level: 4
+          isFolder: 1
+          isContainer: 0
+          isCollapsed: 0
+          isHidden: 0
+          isActive: 0
+          treeIsCheckable: 1
+          checkState: 0
+          isLocked: 0
+          gitStatusEntry:
+            path: 
+            fullPath: 
+            projectPath: 
+            originalPath: 
+            status: 0
+            staged: 0
+        - path: Assets\Plugins\GitHub\Editor\PlatformResources\linux
+          label: linux
+          level: 5
+          isFolder: 1
+          isContainer: 0
+          isCollapsed: 0
+          isHidden: 0
+          isActive: 0
+          treeIsCheckable: 1
+          checkState: 0
+          isLocked: 0
+          gitStatusEntry:
+            path: 
+            fullPath: 
+            projectPath: 
+            originalPath: 
+            status: 0
+            staged: 0
+        - path: Assets\Plugins\GitHub\Editor\PlatformResources\mac
+          label: mac
+          level: 5
+          isFolder: 1
+          isContainer: 0
+          isCollapsed: 0
+          isHidden: 0
+          isActive: 0
+          treeIsCheckable: 1
+          checkState: 0
+          isLocked: 0
+          gitStatusEntry:
+            path: 
+            fullPath: 
+            projectPath: 
+            originalPath: 
+            status: 0
+            staged: 0
+        - path: Assets\Plugins\GitHub\Editor\PlatformResources\windows
+          label: windows
+          level: 5
+          isFolder: 1
+          isContainer: 0
+          isCollapsed: 0
+          isHidden: 0
+          isActive: 0
+          treeIsCheckable: 1
+          checkState: 0
+          isLocked: 0
+          gitStatusEntry:
+            path: 
+            fullPath: 
+            projectPath: 
+            originalPath: 
+            status: 0
+            staged: 0
+        - path: Assets\Plugins\GitHub\Editor\Resources
+          label: Resources
+          level: 4
+          isFolder: 1
+          isContainer: 0
+          isCollapsed: 0
+          isHidden: 0
+          isActive: 0
+          treeIsCheckable: 1
+          checkState: 0
+          isLocked: 0
+          gitStatusEntry:
+            path: 
+            fullPath: 
+            projectPath: 
+            originalPath: 
+            status: 0
+            staged: 0
+        - path: Assets\Plugins\GitHub\Editor\x64
+          label: x64
+          level: 4
+          isFolder: 1
+          isContainer: 0
+          isCollapsed: 0
+          isHidden: 0
+          isActive: 0
+          treeIsCheckable: 1
+          checkState: 0
+          isLocked: 0
+          gitStatusEntry:
+            path: 
+            fullPath: 
+            projectPath: 
+            originalPath: 
+            status: 0
+            staged: 0
+        - path: Assets\Plugins\GitHub\Editor\x86
+          label: x86
+          level: 4
+          isFolder: 1
+          isContainer: 0
+          isCollapsed: 0
+          isHidden: 0
+          isActive: 0
+          treeIsCheckable: 1
+          checkState: 0
+          isLocked: 0
+          gitStatusEntry:
+            path: 
+            fullPath: 
+            projectPath: 
+            originalPath: 
+            status: 0
+            staged: 0
+        - path: ProjectSettings
+          label: ProjectSettings
+          level: 0
+          isFolder: 1
+          isContainer: 0
+          isCollapsed: 0
+          isHidden: 0
+          isActive: 0
+          treeIsCheckable: 1
+          checkState: 0
+          isLocked: 0
+          gitStatusEntry:
+            path: 
+            fullPath: 
+            projectPath: 
+            originalPath: 
+            status: 0
+            staged: 0
+        - path: UnityPackageManager
+          label: UnityPackageManager
+          level: 0
+          isFolder: 1
+          isContainer: 0
+          isCollapsed: 0
+          isHidden: 0
+          isActive: 0
+          treeIsCheckable: 1
+          checkState: 0
+          isLocked: 0
+          gitStatusEntry:
+            path: 
+            fullPath: 
+            projectPath: 
+            originalPath: 
+            status: 0
+            staged: 0
+      checkedFileNodes:
+        keys: []
+        values: []
+      title: 
+      pathSeparator: \
+      displayRootNode: 0
+      isSelectable: 1
+      isCheckable: 1
+      isUsingGlobalSelection: 1
+      nodes:
+      - path: 
+        label: 
+        level: -1
+        isFolder: 1
+        isContainer: 0
+        isCollapsed: 0
+        isHidden: 0
+        isActive: 0
+        treeIsCheckable: 1
+        checkState: 0
+        isLocked: 0
+        gitStatusEntry:
+          path: 
+          fullPath: 
+          projectPath: 
+          originalPath: 
+          status: 0
+          staged: 0
+      - path: Assets
+        label: Assets
+        level: 0
+        isFolder: 1
+        isContainer: 0
+        isCollapsed: 0
+        isHidden: 0
+        isActive: 0
+        treeIsCheckable: 1
+        checkState: 0
+        isLocked: 0
+        gitStatusEntry:
+          path: 
+          fullPath: 
+          projectPath: 
+          originalPath: 
+          status: 0
+          staged: 0
+      - path: Assets\Plugins.meta
+        label: Plugins.meta
+        level: 1
+        isFolder: 0
+        isContainer: 0
+        isCollapsed: 0
+        isHidden: 0
+        isActive: 0
+        treeIsCheckable: 1
+        checkState: 0
+        isLocked: 0
+        gitStatusEntry:
+          path: Assets\Plugins.meta
+          fullPath: C:\Users\ersada\Documents\New Unity Project (2)\Assets\Plugins.meta
+          projectPath: Assets\Plugins.meta
+          originalPath: 
+          status: 1
+          staged: 0
+      - path: Assets\Plugins
+        label: Plugins
+        level: 1
+        isFolder: 1
+        isContainer: 0
+        isCollapsed: 0
+        isHidden: 0
+        isActive: 0
+        treeIsCheckable: 1
+        checkState: 0
+        isLocked: 0
+        gitStatusEntry:
+          path: 
+          fullPath: 
+          projectPath: 
+          originalPath: 
+          status: 0
+          staged: 0
+      - path: Assets\Plugins\GitHub.meta
+        label: GitHub.meta
+        level: 2
+        isFolder: 0
+        isContainer: 0
+        isCollapsed: 0
+        isHidden: 0
+        isActive: 0
+        treeIsCheckable: 1
+        checkState: 0
+        isLocked: 0
+        gitStatusEntry:
+          path: Assets\Plugins\GitHub.meta
+          fullPath: C:\Users\ersada\Documents\New Unity Project (2)\Assets\Plugins\GitHub.meta
+          projectPath: Assets\Plugins\GitHub.meta
+          originalPath: 
+          status: 1
+          staged: 0
+      - path: Assets\Plugins\GitHub
+        label: GitHub
+        level: 2
+        isFolder: 1
+        isContainer: 0
+        isCollapsed: 0
+        isHidden: 0
+        isActive: 0
+        treeIsCheckable: 1
+        checkState: 0
+        isLocked: 0
+        gitStatusEntry:
+          path: 
+          fullPath: 
+          projectPath: 
+          originalPath: 
+          status: 0
+          staged: 0
+      - path: Assets\Plugins\GitHub\Editor.meta
+        label: Editor.meta
+        level: 3
+        isFolder: 0
+        isContainer: 0
+        isCollapsed: 0
+        isHidden: 0
+        isActive: 0
+        treeIsCheckable: 1
+        checkState: 0
+        isLocked: 0
+        gitStatusEntry:
+          path: Assets\Plugins\GitHub\Editor.meta
+          fullPath: C:\Users\ersada\Documents\New Unity Project (2)\Assets\Plugins\GitHub\Editor.meta
+          projectPath: Assets\Plugins\GitHub\Editor.meta
+          originalPath: 
+          status: 1
+          staged: 0
+      - path: Assets\Plugins\GitHub\Editor
+        label: Editor
+        level: 3
+        isFolder: 1
+        isContainer: 0
+        isCollapsed: 0
+        isHidden: 0
+        isActive: 0
+        treeIsCheckable: 1
+        checkState: 0
+        isLocked: 0
+        gitStatusEntry:
+          path: 
+          fullPath: 
+          projectPath: 
+          originalPath: 
+          status: 0
+          staged: 0
+      - path: Assets\Plugins\GitHub\Editor\AsyncBridge.Net35.dll
+        label: AsyncBridge.Net35.dll
+        level: 4
+        isFolder: 0
+        isContainer: 1
+        isCollapsed: 0
+        isHidden: 0
+        isActive: 0
+        treeIsCheckable: 1
+        checkState: 0
+        isLocked: 0
+        gitStatusEntry:
+          path: Assets\Plugins\GitHub\Editor\AsyncBridge.Net35.dll
+          fullPath: C:\Users\ersada\Documents\New Unity Project (2)\Assets\Plugins\GitHub\Editor\AsyncBridge.Net35.dll
+          projectPath: Assets\Plugins\GitHub\Editor\AsyncBridge.Net35.dll
+          originalPath: 
+          status: 1
+          staged: 0
+      - path: Assets\Plugins\GitHub\Editor\AsyncBridge.Net35.dll.meta
+        label: AsyncBridge.Net35.dll.meta
+        level: 5
+        isFolder: 0
+        isContainer: 0
+        isCollapsed: 0
+        isHidden: 0
+        isActive: 0
+        treeIsCheckable: 1
+        checkState: 0
+        isLocked: 0
+        gitStatusEntry:
+          path: Assets\Plugins\GitHub\Editor\AsyncBridge.Net35.dll.meta
+          fullPath: C:\Users\ersada\Documents\New Unity Project (2)\Assets\Plugins\GitHub\Editor\AsyncBridge.Net35.dll.meta
+          projectPath: Assets\Plugins\GitHub\Editor\AsyncBridge.Net35.dll.meta
+          originalPath: 
+          status: 1
+          staged: 0
+      - path: Assets\Plugins\GitHub\Editor\CREDITS.txt
+        label: CREDITS.txt
+        level: 4
+        isFolder: 0
+        isContainer: 1
+        isCollapsed: 0
+        isHidden: 0
+        isActive: 0
+        treeIsCheckable: 1
+        checkState: 0
+        isLocked: 0
+        gitStatusEntry:
+          path: Assets\Plugins\GitHub\Editor\CREDITS.txt
+          fullPath: C:\Users\ersada\Documents\New Unity Project (2)\Assets\Plugins\GitHub\Editor\CREDITS.txt
+          projectPath: Assets\Plugins\GitHub\Editor\CREDITS.txt
+          originalPath: 
+          status: 1
+          staged: 0
+      - path: Assets\Plugins\GitHub\Editor\CREDITS.txt.meta
+        label: CREDITS.txt.meta
+        level: 5
+        isFolder: 0
+        isContainer: 0
+        isCollapsed: 0
+        isHidden: 0
+        isActive: 0
+        treeIsCheckable: 1
+        checkState: 0
+        isLocked: 0
+        gitStatusEntry:
+          path: Assets\Plugins\GitHub\Editor\CREDITS.txt.meta
+          fullPath: C:\Users\ersada\Documents\New Unity Project (2)\Assets\Plugins\GitHub\Editor\CREDITS.txt.meta
+          projectPath: Assets\Plugins\GitHub\Editor\CREDITS.txt.meta
+          originalPath: 
+          status: 1
+          staged: 0
+      - path: Assets\Plugins\GitHub\Editor\EULA.txt
+        label: EULA.txt
+        level: 4
+        isFolder: 0
+        isContainer: 1
+        isCollapsed: 0
+        isHidden: 0
+        isActive: 0
+        treeIsCheckable: 1
+        checkState: 0
+        isLocked: 0
+        gitStatusEntry:
+          path: Assets\Plugins\GitHub\Editor\EULA.txt
+          fullPath: C:\Users\ersada\Documents\New Unity Project (2)\Assets\Plugins\GitHub\Editor\EULA.txt
+          projectPath: Assets\Plugins\GitHub\Editor\EULA.txt
+          originalPath: 
+          status: 1
+          staged: 0
+      - path: Assets\Plugins\GitHub\Editor\EULA.txt.meta
+        label: EULA.txt.meta
+        level: 5
+        isFolder: 0
+        isContainer: 0
+        isCollapsed: 0
+        isHidden: 0
+        isActive: 0
+        treeIsCheckable: 1
+        checkState: 0
+        isLocked: 0
+        gitStatusEntry:
+          path: Assets\Plugins\GitHub\Editor\EULA.txt.meta
+          fullPath: C:\Users\ersada\Documents\New Unity Project (2)\Assets\Plugins\GitHub\Editor\EULA.txt.meta
+          projectPath: Assets\Plugins\GitHub\Editor\EULA.txt.meta
+          originalPath: 
+          status: 1
+          staged: 0
+      - path: Assets\Plugins\GitHub\Editor\GitHub.Api.dll
+        label: GitHub.Api.dll
+        level: 4
+        isFolder: 0
+        isContainer: 0
+        isCollapsed: 0
+        isHidden: 0
+        isActive: 0
+        treeIsCheckable: 1
+        checkState: 0
+        isLocked: 0
+        gitStatusEntry:
+          path: Assets\Plugins\GitHub\Editor\GitHub.Api.dll
+          fullPath: C:\Users\ersada\Documents\New Unity Project (2)\Assets\Plugins\GitHub\Editor\GitHub.Api.dll
+          projectPath: Assets\Plugins\GitHub\Editor\GitHub.Api.dll
+          originalPath: 
+          status: 1
+          staged: 0
+      - path: Assets\Plugins\GitHub\Editor\GitHub.Api.dll.mdb
+        label: GitHub.Api.dll.mdb
+        level: 4
+        isFolder: 0
+        isContainer: 1
+        isCollapsed: 0
+        isHidden: 0
+        isActive: 0
+        treeIsCheckable: 1
+        checkState: 0
+        isLocked: 0
+        gitStatusEntry:
+          path: Assets\Plugins\GitHub\Editor\GitHub.Api.dll.mdb
+          fullPath: C:\Users\ersada\Documents\New Unity Project (2)\Assets\Plugins\GitHub\Editor\GitHub.Api.dll.mdb
+          projectPath: Assets\Plugins\GitHub\Editor\GitHub.Api.dll.mdb
+          originalPath: 
+          status: 1
+          staged: 0
+      - path: Assets\Plugins\GitHub\Editor\GitHub.Api.dll.mdb.meta
+        label: GitHub.Api.dll.mdb.meta
+        level: 5
+        isFolder: 0
+        isContainer: 0
+        isCollapsed: 0
+        isHidden: 0
+        isActive: 0
+        treeIsCheckable: 1
+        checkState: 0
+        isLocked: 0
+        gitStatusEntry:
+          path: Assets\Plugins\GitHub\Editor\GitHub.Api.dll.mdb.meta
+          fullPath: C:\Users\ersada\Documents\New Unity Project (2)\Assets\Plugins\GitHub\Editor\GitHub.Api.dll.mdb.meta
+          projectPath: Assets\Plugins\GitHub\Editor\GitHub.Api.dll.mdb.meta
+          originalPath: 
+          status: 1
+          staged: 0
+      - path: Assets\Plugins\GitHub\Editor\GitHub.Api.dll.meta
+        label: GitHub.Api.dll.meta
+        level: 4
+        isFolder: 0
+        isContainer: 0
+        isCollapsed: 0
+        isHidden: 0
+        isActive: 0
+        treeIsCheckable: 1
+        checkState: 0
+        isLocked: 0
+        gitStatusEntry:
+          path: Assets\Plugins\GitHub\Editor\GitHub.Api.dll.meta
+          fullPath: C:\Users\ersada\Documents\New Unity Project (2)\Assets\Plugins\GitHub\Editor\GitHub.Api.dll.meta
+          projectPath: Assets\Plugins\GitHub\Editor\GitHub.Api.dll.meta
+          originalPath: 
+          status: 1
+          staged: 0
+      - path: Assets\Plugins\GitHub\Editor\GitHub.Logging.dll
+        label: GitHub.Logging.dll
+        level: 4
+        isFolder: 0
+        isContainer: 0
+        isCollapsed: 0
+        isHidden: 0
+        isActive: 0
+        treeIsCheckable: 1
+        checkState: 0
+        isLocked: 0
+        gitStatusEntry:
+          path: Assets\Plugins\GitHub\Editor\GitHub.Logging.dll
+          fullPath: C:\Users\ersada\Documents\New Unity Project (2)\Assets\Plugins\GitHub\Editor\GitHub.Logging.dll
+          projectPath: Assets\Plugins\GitHub\Editor\GitHub.Logging.dll
+          originalPath: 
+          status: 1
+          staged: 0
+      - path: Assets\Plugins\GitHub\Editor\GitHub.Logging.dll.mdb
+        label: GitHub.Logging.dll.mdb
+        level: 4
+        isFolder: 0
+        isContainer: 1
+        isCollapsed: 0
+        isHidden: 0
+        isActive: 0
+        treeIsCheckable: 1
+        checkState: 0
+        isLocked: 0
+        gitStatusEntry:
+          path: Assets\Plugins\GitHub\Editor\GitHub.Logging.dll.mdb
+          fullPath: C:\Users\ersada\Documents\New Unity Project (2)\Assets\Plugins\GitHub\Editor\GitHub.Logging.dll.mdb
+          projectPath: Assets\Plugins\GitHub\Editor\GitHub.Logging.dll.mdb
+          originalPath: 
+          status: 1
+          staged: 0
+      - path: Assets\Plugins\GitHub\Editor\GitHub.Logging.dll.mdb.meta
+        label: GitHub.Logging.dll.mdb.meta
+        level: 5
+        isFolder: 0
+        isContainer: 0
+        isCollapsed: 0
+        isHidden: 0
+        isActive: 0
+        treeIsCheckable: 1
+        checkState: 0
+        isLocked: 0
+        gitStatusEntry:
+          path: Assets\Plugins\GitHub\Editor\GitHub.Logging.dll.mdb.meta
+          fullPath: C:\Users\ersada\Documents\New Unity Project (2)\Assets\Plugins\GitHub\Editor\GitHub.Logging.dll.mdb.meta
+          projectPath: Assets\Plugins\GitHub\Editor\GitHub.Logging.dll.mdb.meta
+          originalPath: 
+          status: 1
+          staged: 0
+      - path: Assets\Plugins\GitHub\Editor\GitHub.Logging.dll.meta
+        label: GitHub.Logging.dll.meta
+        level: 4
+        isFolder: 0
+        isContainer: 0
+        isCollapsed: 0
+        isHidden: 0
+        isActive: 0
+        treeIsCheckable: 1
+        checkState: 0
+        isLocked: 0
+        gitStatusEntry:
+          path: Assets\Plugins\GitHub\Editor\GitHub.Logging.dll.meta
+          fullPath: C:\Users\ersada\Documents\New Unity Project (2)\Assets\Plugins\GitHub\Editor\GitHub.Logging.dll.meta
+          projectPath: Assets\Plugins\GitHub\Editor\GitHub.Logging.dll.meta
+          originalPath: 
+          status: 1
+          staged: 0
+      - path: Assets\Plugins\GitHub\Editor\GitHub.Unity.dll
+        label: GitHub.Unity.dll
+        level: 4
+        isFolder: 0
+        isContainer: 0
+        isCollapsed: 0
+        isHidden: 0
+        isActive: 0
+        treeIsCheckable: 1
+        checkState: 0
+        isLocked: 0
+        gitStatusEntry:
+          path: Assets\Plugins\GitHub\Editor\GitHub.Unity.dll
+          fullPath: C:\Users\ersada\Documents\New Unity Project (2)\Assets\Plugins\GitHub\Editor\GitHub.Unity.dll
+          projectPath: Assets\Plugins\GitHub\Editor\GitHub.Unity.dll
+          originalPath: 
+          status: 1
+          staged: 0
+      - path: Assets\Plugins\GitHub\Editor\GitHub.Unity.dll.mdb
+        label: GitHub.Unity.dll.mdb
+        level: 4
+        isFolder: 0
+        isContainer: 1
+        isCollapsed: 0
+        isHidden: 0
+        isActive: 0
+        treeIsCheckable: 1
+        checkState: 0
+        isLocked: 0
+        gitStatusEntry:
+          path: Assets\Plugins\GitHub\Editor\GitHub.Unity.dll.mdb
+          fullPath: C:\Users\ersada\Documents\New Unity Project (2)\Assets\Plugins\GitHub\Editor\GitHub.Unity.dll.mdb
+          projectPath: Assets\Plugins\GitHub\Editor\GitHub.Unity.dll.mdb
+          originalPath: 
+          status: 1
+          staged: 0
+      - path: Assets\Plugins\GitHub\Editor\GitHub.Unity.dll.mdb.meta
+        label: GitHub.Unity.dll.mdb.meta
+        level: 5
+        isFolder: 0
+        isContainer: 0
+        isCollapsed: 0
+        isHidden: 0
+        isActive: 0
+        treeIsCheckable: 1
+        checkState: 0
+        isLocked: 0
+        gitStatusEntry:
+          path: Assets\Plugins\GitHub\Editor\GitHub.Unity.dll.mdb.meta
+          fullPath: C:\Users\ersada\Documents\New Unity Project (2)\Assets\Plugins\GitHub\Editor\GitHub.Unity.dll.mdb.meta
+          projectPath: Assets\Plugins\GitHub\Editor\GitHub.Unity.dll.mdb.meta
+          originalPath: 
+          status: 1
+          staged: 0
+      - path: Assets\Plugins\GitHub\Editor\GitHub.Unity.dll.meta
+        label: GitHub.Unity.dll.meta
+        level: 4
+        isFolder: 0
+        isContainer: 0
+        isCollapsed: 0
+        isHidden: 0
+        isActive: 0
+        treeIsCheckable: 1
+        checkState: 0
+        isLocked: 0
+        gitStatusEntry:
+          path: Assets\Plugins\GitHub\Editor\GitHub.Unity.dll.meta
+          fullPath: C:\Users\ersada\Documents\New Unity Project (2)\Assets\Plugins\GitHub\Editor\GitHub.Unity.dll.meta
+          projectPath: Assets\Plugins\GitHub\Editor\GitHub.Unity.dll.meta
+          originalPath: 
+          status: 1
+          staged: 0
+      - path: Assets\Plugins\GitHub\Editor\ICSharpCode.SharpZipLib.dll
+        label: ICSharpCode.SharpZipLib.dll
+        level: 4
+        isFolder: 0
+        isContainer: 1
+        isCollapsed: 0
+        isHidden: 0
+        isActive: 0
+        treeIsCheckable: 1
+        checkState: 0
+        isLocked: 0
+        gitStatusEntry:
+          path: Assets\Plugins\GitHub\Editor\ICSharpCode.SharpZipLib.dll
+          fullPath: C:\Users\ersada\Documents\New Unity Project (2)\Assets\Plugins\GitHub\Editor\ICSharpCode.SharpZipLib.dll
+          projectPath: Assets\Plugins\GitHub\Editor\ICSharpCode.SharpZipLib.dll
+          originalPath: 
+          status: 1
+          staged: 0
+      - path: Assets\Plugins\GitHub\Editor\ICSharpCode.SharpZipLib.dll.meta
+        label: ICSharpCode.SharpZipLib.dll.meta
+        level: 5
+        isFolder: 0
+        isContainer: 0
+        isCollapsed: 0
+        isHidden: 0
+        isActive: 0
+        treeIsCheckable: 1
+        checkState: 0
+        isLocked: 0
+        gitStatusEntry:
+          path: Assets\Plugins\GitHub\Editor\ICSharpCode.SharpZipLib.dll.meta
+          fullPath: C:\Users\ersada\Documents\New Unity Project (2)\Assets\Plugins\GitHub\Editor\ICSharpCode.SharpZipLib.dll.meta
+          projectPath: Assets\Plugins\GitHub\Editor\ICSharpCode.SharpZipLib.dll.meta
+          originalPath: 
+          status: 1
+          staged: 0
+      - path: Assets\Plugins\GitHub\Editor\libsfw.bundle
+        label: libsfw.bundle
+        level: 4
+        isFolder: 0
+        isContainer: 1
+        isCollapsed: 0
+        isHidden: 0
+        isActive: 0
+        treeIsCheckable: 1
+        checkState: 0
+        isLocked: 0
+        gitStatusEntry:
+          path: Assets\Plugins\GitHub\Editor\libsfw.bundle
+          fullPath: C:\Users\ersada\Documents\New Unity Project (2)\Assets\Plugins\GitHub\Editor\libsfw.bundle
+          projectPath: Assets\Plugins\GitHub\Editor\libsfw.bundle
+          originalPath: 
+          status: 1
+          staged: 0
+      - path: Assets\Plugins\GitHub\Editor\libsfw.bundle.meta
+        label: libsfw.bundle.meta
+        level: 5
+        isFolder: 0
+        isContainer: 0
+        isCollapsed: 0
+        isHidden: 0
+        isActive: 0
+        treeIsCheckable: 1
+        checkState: 0
+        isLocked: 0
+        gitStatusEntry:
+          path: Assets\Plugins\GitHub\Editor\libsfw.bundle.meta
+          fullPath: C:\Users\ersada\Documents\New Unity Project (2)\Assets\Plugins\GitHub\Editor\libsfw.bundle.meta
+          projectPath: Assets\Plugins\GitHub\Editor\libsfw.bundle.meta
+          originalPath: 
+          status: 1
+          staged: 0
+      - path: Assets\Plugins\GitHub\Editor\libsfw.so
+        label: libsfw.so
+        level: 4
+        isFolder: 0
+        isContainer: 1
+        isCollapsed: 0
+        isHidden: 0
+        isActive: 0
+        treeIsCheckable: 1
+        checkState: 0
+        isLocked: 0
+        gitStatusEntry:
+          path: Assets\Plugins\GitHub\Editor\libsfw.so
+          fullPath: C:\Users\ersada\Documents\New Unity Project (2)\Assets\Plugins\GitHub\Editor\libsfw.so
+          projectPath: Assets\Plugins\GitHub\Editor\libsfw.so
+          originalPath: 
+          status: 1
+          staged: 0
+      - path: Assets\Plugins\GitHub\Editor\libsfw.so.meta
+        label: libsfw.so.meta
+        level: 5
+        isFolder: 0
+        isContainer: 0
+        isCollapsed: 0
+        isHidden: 0
+        isActive: 0
+        treeIsCheckable: 1
+        checkState: 0
+        isLocked: 0
+        gitStatusEntry:
+          path: Assets\Plugins\GitHub\Editor\libsfw.so.meta
+          fullPath: C:\Users\ersada\Documents\New Unity Project (2)\Assets\Plugins\GitHub\Editor\libsfw.so.meta
+          projectPath: Assets\Plugins\GitHub\Editor\libsfw.so.meta
+          originalPath: 
+          status: 1
+          staged: 0
+      - path: Assets\Plugins\GitHub\Editor\Mono.Posix.dll
+        label: Mono.Posix.dll
+        level: 4
+        isFolder: 0
+        isContainer: 1
+        isCollapsed: 0
+        isHidden: 0
+        isActive: 0
+        treeIsCheckable: 1
+        checkState: 0
+        isLocked: 0
+        gitStatusEntry:
+          path: Assets\Plugins\GitHub\Editor\Mono.Posix.dll
+          fullPath: C:\Users\ersada\Documents\New Unity Project (2)\Assets\Plugins\GitHub\Editor\Mono.Posix.dll
+          projectPath: Assets\Plugins\GitHub\Editor\Mono.Posix.dll
+          originalPath: 
+          status: 1
+          staged: 0
+      - path: Assets\Plugins\GitHub\Editor\Mono.Posix.dll.meta
+        label: Mono.Posix.dll.meta
+        level: 5
+        isFolder: 0
+        isContainer: 0
+        isCollapsed: 0
+        isHidden: 0
+        isActive: 0
+        treeIsCheckable: 1
+        checkState: 0
+        isLocked: 0
+        gitStatusEntry:
+          path: Assets\Plugins\GitHub\Editor\Mono.Posix.dll.meta
+          fullPath: C:\Users\ersada\Documents\New Unity Project (2)\Assets\Plugins\GitHub\Editor\Mono.Posix.dll.meta
+          projectPath: Assets\Plugins\GitHub\Editor\Mono.Posix.dll.meta
+          originalPath: 
+          status: 1
+          staged: 0
+      - path: Assets\Plugins\GitHub\Editor\Mono.Security.dll
+        label: Mono.Security.dll
+        level: 4
+        isFolder: 0
+        isContainer: 1
+        isCollapsed: 0
+        isHidden: 0
+        isActive: 0
+        treeIsCheckable: 1
+        checkState: 0
+        isLocked: 0
+        gitStatusEntry:
+          path: Assets\Plugins\GitHub\Editor\Mono.Security.dll
+          fullPath: C:\Users\ersada\Documents\New Unity Project (2)\Assets\Plugins\GitHub\Editor\Mono.Security.dll
+          projectPath: Assets\Plugins\GitHub\Editor\Mono.Security.dll
+          originalPath: 
+          status: 1
+          staged: 0
+      - path: Assets\Plugins\GitHub\Editor\Mono.Security.dll.meta
+        label: Mono.Security.dll.meta
+        level: 5
+        isFolder: 0
+        isContainer: 0
+        isCollapsed: 0
+        isHidden: 0
+        isActive: 0
+        treeIsCheckable: 1
+        checkState: 0
+        isLocked: 0
+        gitStatusEntry:
+          path: Assets\Plugins\GitHub\Editor\Mono.Security.dll.meta
+          fullPath: C:\Users\ersada\Documents\New Unity Project (2)\Assets\Plugins\GitHub\Editor\Mono.Security.dll.meta
+          projectPath: Assets\Plugins\GitHub\Editor\Mono.Security.dll.meta
+          originalPath: 
+          status: 1
+          staged: 0
+      - path: Assets\Plugins\GitHub\Editor\PlatformResources.meta
+        label: PlatformResources.meta
+        level: 4
+        isFolder: 0
+        isContainer: 0
+        isCollapsed: 0
+        isHidden: 0
+        isActive: 0
+        treeIsCheckable: 1
+        checkState: 0
+        isLocked: 0
+        gitStatusEntry:
+          path: Assets\Plugins\GitHub\Editor\PlatformResources.meta
+          fullPath: C:\Users\ersada\Documents\New Unity Project (2)\Assets\Plugins\GitHub\Editor\PlatformResources.meta
+          projectPath: Assets\Plugins\GitHub\Editor\PlatformResources.meta
+          originalPath: 
+          status: 1
+          staged: 0
+      - path: Assets\Plugins\GitHub\Editor\PlatformResources
+        label: PlatformResources
+        level: 4
+        isFolder: 1
+        isContainer: 0
+        isCollapsed: 0
+        isHidden: 0
+        isActive: 0
+        treeIsCheckable: 1
+        checkState: 0
+        isLocked: 0
+        gitStatusEntry:
+          path: 
+          fullPath: 
+          projectPath: 
+          originalPath: 
+          status: 0
+          staged: 0
+      - path: Assets\Plugins\GitHub\Editor\PlatformResources\linux.meta
+        label: linux.meta
+        level: 5
+        isFolder: 0
+        isContainer: 0
+        isCollapsed: 0
+        isHidden: 0
+        isActive: 0
+        treeIsCheckable: 1
+        checkState: 0
+        isLocked: 0
+        gitStatusEntry:
+          path: Assets\Plugins\GitHub\Editor\PlatformResources\linux.meta
+          fullPath: C:\Users\ersada\Documents\New Unity Project (2)\Assets\Plugins\GitHub\Editor\PlatformResources\linux.meta
+          projectPath: Assets\Plugins\GitHub\Editor\PlatformResources\linux.meta
+          originalPath: 
+          status: 1
+          staged: 0
+      - path: Assets\Plugins\GitHub\Editor\PlatformResources\linux
+        label: linux
+        level: 5
+        isFolder: 1
+        isContainer: 0
+        isCollapsed: 0
+        isHidden: 0
+        isActive: 0
+        treeIsCheckable: 1
+        checkState: 0
+        isLocked: 0
+        gitStatusEntry:
+          path: 
+          fullPath: 
+          projectPath: 
+          originalPath: 
+          status: 0
+          staged: 0
+      - path: Assets\Plugins\GitHub\Editor\PlatformResources\linux\gitconfig
+        label: gitconfig
+        level: 6
+        isFolder: 0
+        isContainer: 1
+        isCollapsed: 0
+        isHidden: 0
+        isActive: 0
+        treeIsCheckable: 1
+        checkState: 0
+        isLocked: 0
+        gitStatusEntry:
+          path: Assets\Plugins\GitHub\Editor\PlatformResources\linux\gitconfig
+          fullPath: C:\Users\ersada\Documents\New Unity Project (2)\Assets\Plugins\GitHub\Editor\PlatformResources\linux\gitconfig
+          projectPath: Assets\Plugins\GitHub\Editor\PlatformResources\linux\gitconfig
+          originalPath: 
+          status: 1
+          staged: 0
+      - path: Assets\Plugins\GitHub\Editor\PlatformResources\linux\gitconfig.meta
+        label: gitconfig.meta
+        level: 7
+        isFolder: 0
+        isContainer: 0
+        isCollapsed: 0
+        isHidden: 0
+        isActive: 0
+        treeIsCheckable: 1
+        checkState: 0
+        isLocked: 0
+        gitStatusEntry:
+          path: Assets\Plugins\GitHub\Editor\PlatformResources\linux\gitconfig.meta
+          fullPath: C:\Users\ersada\Documents\New Unity Project (2)\Assets\Plugins\GitHub\Editor\PlatformResources\linux\gitconfig.meta
+          projectPath: Assets\Plugins\GitHub\Editor\PlatformResources\linux\gitconfig.meta
+          originalPath: 
+          status: 1
+          staged: 0
+      - path: Assets\Plugins\GitHub\Editor\PlatformResources\linux\git-lfs.zip
+        label: git-lfs.zip
+        level: 6
+        isFolder: 0
+        isContainer: 0
+        isCollapsed: 0
+        isHidden: 0
+        isActive: 0
+        treeIsCheckable: 1
+        checkState: 0
+        isLocked: 0
+        gitStatusEntry:
+          path: Assets\Plugins\GitHub\Editor\PlatformResources\linux\git-lfs.zip
+          fullPath: C:\Users\ersada\Documents\New Unity Project (2)\Assets\Plugins\GitHub\Editor\PlatformResources\linux\git-lfs.zip
+          projectPath: Assets\Plugins\GitHub\Editor\PlatformResources\linux\git-lfs.zip
+          originalPath: 
+          status: 1
+          staged: 0
+      - path: Assets\Plugins\GitHub\Editor\PlatformResources\linux\git-lfs.zip.md5
+        label: git-lfs.zip.md5
+        level: 6
+        isFolder: 0
+        isContainer: 1
+        isCollapsed: 0
+        isHidden: 0
+        isActive: 0
+        treeIsCheckable: 1
+        checkState: 0
+        isLocked: 0
+        gitStatusEntry:
+          path: Assets\Plugins\GitHub\Editor\PlatformResources\linux\git-lfs.zip.md5
+          fullPath: C:\Users\ersada\Documents\New Unity Project (2)\Assets\Plugins\GitHub\Editor\PlatformResources\linux\git-lfs.zip.md5
+          projectPath: Assets\Plugins\GitHub\Editor\PlatformResources\linux\git-lfs.zip.md5
+          originalPath: 
+          status: 1
+          staged: 0
+      - path: Assets\Plugins\GitHub\Editor\PlatformResources\linux\git-lfs.zip.md5.meta
+        label: git-lfs.zip.md5.meta
+        level: 7
+        isFolder: 0
+        isContainer: 0
+        isCollapsed: 0
+        isHidden: 0
+        isActive: 0
+        treeIsCheckable: 1
+        checkState: 0
+        isLocked: 0
+        gitStatusEntry:
+          path: Assets\Plugins\GitHub\Editor\PlatformResources\linux\git-lfs.zip.md5.meta
+          fullPath: C:\Users\ersada\Documents\New Unity Project (2)\Assets\Plugins\GitHub\Editor\PlatformResources\linux\git-lfs.zip.md5.meta
+          projectPath: Assets\Plugins\GitHub\Editor\PlatformResources\linux\git-lfs.zip.md5.meta
+          originalPath: 
+          status: 1
+          staged: 0
+      - path: Assets\Plugins\GitHub\Editor\PlatformResources\linux\git-lfs.zip.meta
+        label: git-lfs.zip.meta
+        level: 6
+        isFolder: 0
+        isContainer: 0
+        isCollapsed: 0
+        isHidden: 0
+        isActive: 0
+        treeIsCheckable: 1
+        checkState: 0
+        isLocked: 0
+        gitStatusEntry:
+          path: Assets\Plugins\GitHub\Editor\PlatformResources\linux\git-lfs.zip.meta
+          fullPath: C:\Users\ersada\Documents\New Unity Project (2)\Assets\Plugins\GitHub\Editor\PlatformResources\linux\git-lfs.zip.meta
+          projectPath: Assets\Plugins\GitHub\Editor\PlatformResources\linux\git-lfs.zip.meta
+          originalPath: 
+          status: 1
+          staged: 0
+      - path: Assets\Plugins\GitHub\Editor\PlatformResources\mac.meta
+        label: mac.meta
+        level: 5
+        isFolder: 0
+        isContainer: 0
+        isCollapsed: 0
+        isHidden: 0
+        isActive: 0
+        treeIsCheckable: 1
+        checkState: 0
+        isLocked: 0
+        gitStatusEntry:
+          path: Assets\Plugins\GitHub\Editor\PlatformResources\mac.meta
+          fullPath: C:\Users\ersada\Documents\New Unity Project (2)\Assets\Plugins\GitHub\Editor\PlatformResources\mac.meta
+          projectPath: Assets\Plugins\GitHub\Editor\PlatformResources\mac.meta
+          originalPath: 
+          status: 1
+          staged: 0
+      - path: Assets\Plugins\GitHub\Editor\PlatformResources\mac
+        label: mac
+        level: 5
+        isFolder: 1
+        isContainer: 0
+        isCollapsed: 0
+        isHidden: 0
+        isActive: 0
+        treeIsCheckable: 1
+        checkState: 0
+        isLocked: 0
+        gitStatusEntry:
+          path: 
+          fullPath: 
+          projectPath: 
+          originalPath: 
+          status: 0
+          staged: 0
+      - path: Assets\Plugins\GitHub\Editor\PlatformResources\mac\gitconfig
+        label: gitconfig
+        level: 6
+        isFolder: 0
+        isContainer: 1
+        isCollapsed: 0
+        isHidden: 0
+        isActive: 0
+        treeIsCheckable: 1
+        checkState: 0
+        isLocked: 0
+        gitStatusEntry:
+          path: Assets\Plugins\GitHub\Editor\PlatformResources\mac\gitconfig
+          fullPath: C:\Users\ersada\Documents\New Unity Project (2)\Assets\Plugins\GitHub\Editor\PlatformResources\mac\gitconfig
+          projectPath: Assets\Plugins\GitHub\Editor\PlatformResources\mac\gitconfig
+          originalPath: 
+          status: 1
+          staged: 0
+      - path: Assets\Plugins\GitHub\Editor\PlatformResources\mac\gitconfig.meta
+        label: gitconfig.meta
+        level: 7
+        isFolder: 0
+        isContainer: 0
+        isCollapsed: 0
+        isHidden: 0
+        isActive: 0
+        treeIsCheckable: 1
+        checkState: 0
+        isLocked: 0
+        gitStatusEntry:
+          path: Assets\Plugins\GitHub\Editor\PlatformResources\mac\gitconfig.meta
+          fullPath: C:\Users\ersada\Documents\New Unity Project (2)\Assets\Plugins\GitHub\Editor\PlatformResources\mac\gitconfig.meta
+          projectPath: Assets\Plugins\GitHub\Editor\PlatformResources\mac\gitconfig.meta
+          originalPath: 
+          status: 1
+          staged: 0
+      - path: Assets\Plugins\GitHub\Editor\PlatformResources\mac\git-lfs.zip
+        label: git-lfs.zip
+        level: 6
+        isFolder: 0
+        isContainer: 0
+        isCollapsed: 0
+        isHidden: 0
+        isActive: 0
+        treeIsCheckable: 1
+        checkState: 0
+        isLocked: 0
+        gitStatusEntry:
+          path: Assets\Plugins\GitHub\Editor\PlatformResources\mac\git-lfs.zip
+          fullPath: C:\Users\ersada\Documents\New Unity Project (2)\Assets\Plugins\GitHub\Editor\PlatformResources\mac\git-lfs.zip
+          projectPath: Assets\Plugins\GitHub\Editor\PlatformResources\mac\git-lfs.zip
+          originalPath: 
+          status: 1
+          staged: 0
+      - path: Assets\Plugins\GitHub\Editor\PlatformResources\mac\git-lfs.zip.md5
+        label: git-lfs.zip.md5
+        level: 6
+        isFolder: 0
+        isContainer: 1
+        isCollapsed: 0
+        isHidden: 0
+        isActive: 0
+        treeIsCheckable: 1
+        checkState: 0
+        isLocked: 0
+        gitStatusEntry:
+          path: Assets\Plugins\GitHub\Editor\PlatformResources\mac\git-lfs.zip.md5
+          fullPath: C:\Users\ersada\Documents\New Unity Project (2)\Assets\Plugins\GitHub\Editor\PlatformResources\mac\git-lfs.zip.md5
+          projectPath: Assets\Plugins\GitHub\Editor\PlatformResources\mac\git-lfs.zip.md5
+          originalPath: 
+          status: 1
+          staged: 0
+      - path: Assets\Plugins\GitHub\Editor\PlatformResources\mac\git-lfs.zip.md5.meta
+        label: git-lfs.zip.md5.meta
+        level: 7
+        isFolder: 0
+        isContainer: 0
+        isCollapsed: 0
+        isHidden: 0
+        isActive: 0
+        treeIsCheckable: 1
+        checkState: 0
+        isLocked: 0
+        gitStatusEntry:
+          path: Assets\Plugins\GitHub\Editor\PlatformResources\mac\git-lfs.zip.md5.meta
+          fullPath: C:\Users\ersada\Documents\New Unity Project (2)\Assets\Plugins\GitHub\Editor\PlatformResources\mac\git-lfs.zip.md5.meta
+          projectPath: Assets\Plugins\GitHub\Editor\PlatformResources\mac\git-lfs.zip.md5.meta
+          originalPath: 
+          status: 1
+          staged: 0
+      - path: Assets\Plugins\GitHub\Editor\PlatformResources\mac\git-lfs.zip.meta
+        label: git-lfs.zip.meta
+        level: 6
+        isFolder: 0
+        isContainer: 0
+        isCollapsed: 0
+        isHidden: 0
+        isActive: 0
+        treeIsCheckable: 1
+        checkState: 0
+        isLocked: 0
+        gitStatusEntry:
+          path: Assets\Plugins\GitHub\Editor\PlatformResources\mac\git-lfs.zip.meta
+          fullPath: C:\Users\ersada\Documents\New Unity Project (2)\Assets\Plugins\GitHub\Editor\PlatformResources\mac\git-lfs.zip.meta
+          projectPath: Assets\Plugins\GitHub\Editor\PlatformResources\mac\git-lfs.zip.meta
+          originalPath: 
+          status: 1
+          staged: 0
+      - path: Assets\Plugins\GitHub\Editor\PlatformResources\windows.meta
+        label: windows.meta
+        level: 5
+        isFolder: 0
+        isContainer: 0
+        isCollapsed: 0
+        isHidden: 0
+        isActive: 0
+        treeIsCheckable: 1
+        checkState: 0
+        isLocked: 0
+        gitStatusEntry:
+          path: Assets\Plugins\GitHub\Editor\PlatformResources\windows.meta
+          fullPath: C:\Users\ersada\Documents\New Unity Project (2)\Assets\Plugins\GitHub\Editor\PlatformResources\windows.meta
+          projectPath: Assets\Plugins\GitHub\Editor\PlatformResources\windows.meta
+          originalPath: 
+          status: 1
+          staged: 0
+      - path: Assets\Plugins\GitHub\Editor\PlatformResources\windows
+        label: windows
+        level: 5
+        isFolder: 1
+        isContainer: 0
+        isCollapsed: 0
+        isHidden: 0
+        isActive: 0
+        treeIsCheckable: 1
+        checkState: 0
+        isLocked: 0
+        gitStatusEntry:
+          path: 
+          fullPath: 
+          projectPath: 
+          originalPath: 
+          status: 0
+          staged: 0
+      - path: Assets\Plugins\GitHub\Editor\PlatformResources\windows\git.zip
+        label: git.zip
+        level: 6
+        isFolder: 0
+        isContainer: 0
+        isCollapsed: 0
+        isHidden: 0
+        isActive: 0
+        treeIsCheckable: 1
+        checkState: 0
+        isLocked: 0
+        gitStatusEntry:
+          path: Assets\Plugins\GitHub\Editor\PlatformResources\windows\git.zip
+          fullPath: C:\Users\ersada\Documents\New Unity Project (2)\Assets\Plugins\GitHub\Editor\PlatformResources\windows\git.zip
+          projectPath: Assets\Plugins\GitHub\Editor\PlatformResources\windows\git.zip
+          originalPath: 
+          status: 1
+          staged: 0
+      - path: Assets\Plugins\GitHub\Editor\PlatformResources\windows\git.zip.md5
+        label: git.zip.md5
+        level: 6
+        isFolder: 0
+        isContainer: 1
+        isCollapsed: 0
+        isHidden: 0
+        isActive: 0
+        treeIsCheckable: 1
+        checkState: 0
+        isLocked: 0
+        gitStatusEntry:
+          path: Assets\Plugins\GitHub\Editor\PlatformResources\windows\git.zip.md5
+          fullPath: C:\Users\ersada\Documents\New Unity Project (2)\Assets\Plugins\GitHub\Editor\PlatformResources\windows\git.zip.md5
+          projectPath: Assets\Plugins\GitHub\Editor\PlatformResources\windows\git.zip.md5
+          originalPath: 
+          status: 1
+          staged: 0
+      - path: Assets\Plugins\GitHub\Editor\PlatformResources\windows\git.zip.md5.meta
+        label: git.zip.md5.meta
+        level: 7
+        isFolder: 0
+        isContainer: 0
+        isCollapsed: 0
+        isHidden: 0
+        isActive: 0
+        treeIsCheckable: 1
+        checkState: 0
+        isLocked: 0
+        gitStatusEntry:
+          path: Assets\Plugins\GitHub\Editor\PlatformResources\windows\git.zip.md5.meta
+          fullPath: C:\Users\ersada\Documents\New Unity Project (2)\Assets\Plugins\GitHub\Editor\PlatformResources\windows\git.zip.md5.meta
+          projectPath: Assets\Plugins\GitHub\Editor\PlatformResources\windows\git.zip.md5.meta
+          originalPath: 
+          status: 1
+          staged: 0
+      - path: Assets\Plugins\GitHub\Editor\PlatformResources\windows\git.zip.meta
+        label: git.zip.meta
+        level: 6
+        isFolder: 0
+        isContainer: 0
+        isCollapsed: 0
+        isHidden: 0
+        isActive: 0
+        treeIsCheckable: 1
+        checkState: 0
+        isLocked: 0
+        gitStatusEntry:
+          path: Assets\Plugins\GitHub\Editor\PlatformResources\windows\git.zip.meta
+          fullPath: C:\Users\ersada\Documents\New Unity Project (2)\Assets\Plugins\GitHub\Editor\PlatformResources\windows\git.zip.meta
+          projectPath: Assets\Plugins\GitHub\Editor\PlatformResources\windows\git.zip.meta
+          originalPath: 
+          status: 1
+          staged: 0
+      - path: Assets\Plugins\GitHub\Editor\PlatformResources\windows\gitconfig
+        label: gitconfig
+        level: 6
+        isFolder: 0
+        isContainer: 1
+        isCollapsed: 0
+        isHidden: 0
+        isActive: 0
+        treeIsCheckable: 1
+        checkState: 0
+        isLocked: 0
+        gitStatusEntry:
+          path: Assets\Plugins\GitHub\Editor\PlatformResources\windows\gitconfig
+          fullPath: C:\Users\ersada\Documents\New Unity Project (2)\Assets\Plugins\GitHub\Editor\PlatformResources\windows\gitconfig
+          projectPath: Assets\Plugins\GitHub\Editor\PlatformResources\windows\gitconfig
+          originalPath: 
+          status: 1
+          staged: 0
+      - path: Assets\Plugins\GitHub\Editor\PlatformResources\windows\gitconfig.meta
+        label: gitconfig.meta
+        level: 7
+        isFolder: 0
+        isContainer: 0
+        isCollapsed: 0
+        isHidden: 0
+        isActive: 0
+        treeIsCheckable: 1
+        checkState: 0
+        isLocked: 0
+        gitStatusEntry:
+          path: Assets\Plugins\GitHub\Editor\PlatformResources\windows\gitconfig.meta
+          fullPath: C:\Users\ersada\Documents\New Unity Project (2)\Assets\Plugins\GitHub\Editor\PlatformResources\windows\gitconfig.meta
+          projectPath: Assets\Plugins\GitHub\Editor\PlatformResources\windows\gitconfig.meta
+          originalPath: 
+          status: 1
+          staged: 0
+      - path: Assets\Plugins\GitHub\Editor\PlatformResources\windows\git-lfs.zip
+        label: git-lfs.zip
+        level: 6
+        isFolder: 0
+        isContainer: 0
+        isCollapsed: 0
+        isHidden: 0
+        isActive: 0
+        treeIsCheckable: 1
+        checkState: 0
+        isLocked: 0
+        gitStatusEntry:
+          path: Assets\Plugins\GitHub\Editor\PlatformResources\windows\git-lfs.zip
+          fullPath: C:\Users\ersada\Documents\New Unity Project (2)\Assets\Plugins\GitHub\Editor\PlatformResources\windows\git-lfs.zip
+          projectPath: Assets\Plugins\GitHub\Editor\PlatformResources\windows\git-lfs.zip
+          originalPath: 
+          status: 1
+          staged: 0
+      - path: Assets\Plugins\GitHub\Editor\PlatformResources\windows\git-lfs.zip.md5
+        label: git-lfs.zip.md5
+        level: 6
+        isFolder: 0
+        isContainer: 1
+        isCollapsed: 0
+        isHidden: 0
+        isActive: 0
+        treeIsCheckable: 1
+        checkState: 0
+        isLocked: 0
+        gitStatusEntry:
+          path: Assets\Plugins\GitHub\Editor\PlatformResources\windows\git-lfs.zip.md5
+          fullPath: C:\Users\ersada\Documents\New Unity Project (2)\Assets\Plugins\GitHub\Editor\PlatformResources\windows\git-lfs.zip.md5
+          projectPath: Assets\Plugins\GitHub\Editor\PlatformResources\windows\git-lfs.zip.md5
+          originalPath: 
+          status: 1
+          staged: 0
+      - path: Assets\Plugins\GitHub\Editor\PlatformResources\windows\git-lfs.zip.md5.meta
+        label: git-lfs.zip.md5.meta
+        level: 7
+        isFolder: 0
+        isContainer: 0
+        isCollapsed: 0
+        isHidden: 0
+        isActive: 0
+        treeIsCheckable: 1
+        checkState: 0
+        isLocked: 0
+        gitStatusEntry:
+          path: Assets\Plugins\GitHub\Editor\PlatformResources\windows\git-lfs.zip.md5.meta
+          fullPath: C:\Users\ersada\Documents\New Unity Project (2)\Assets\Plugins\GitHub\Editor\PlatformResources\windows\git-lfs.zip.md5.meta
+          projectPath: Assets\Plugins\GitHub\Editor\PlatformResources\windows\git-lfs.zip.md5.meta
+          originalPath: 
+          status: 1
+          staged: 0
+      - path: Assets\Plugins\GitHub\Editor\PlatformResources\windows\git-lfs.zip.meta
+        label: git-lfs.zip.meta
+        level: 6
+        isFolder: 0
+        isContainer: 0
+        isCollapsed: 0
+        isHidden: 0
+        isActive: 0
+        treeIsCheckable: 1
+        checkState: 0
+        isLocked: 0
+        gitStatusEntry:
+          path: Assets\Plugins\GitHub\Editor\PlatformResources\windows\git-lfs.zip.meta
+          fullPath: C:\Users\ersada\Documents\New Unity Project (2)\Assets\Plugins\GitHub\Editor\PlatformResources\windows\git-lfs.zip.meta
+          projectPath: Assets\Plugins\GitHub\Editor\PlatformResources\windows\git-lfs.zip.meta
+          originalPath: 
+          status: 1
+          staged: 0
+      - path: Assets\Plugins\GitHub\Editor\ReadOnlyCollectionsInterfaces.dll
+        label: ReadOnlyCollectionsInterfaces.dll
+        level: 4
+        isFolder: 0
+        isContainer: 1
+        isCollapsed: 0
+        isHidden: 0
+        isActive: 0
+        treeIsCheckable: 1
+        checkState: 0
+        isLocked: 0
+        gitStatusEntry:
+          path: Assets\Plugins\GitHub\Editor\ReadOnlyCollectionsInterfaces.dll
+          fullPath: C:\Users\ersada\Documents\New Unity Project (2)\Assets\Plugins\GitHub\Editor\ReadOnlyCollectionsInterfaces.dll
+          projectPath: Assets\Plugins\GitHub\Editor\ReadOnlyCollectionsInterfaces.dll
+          originalPath: 
+          status: 1
+          staged: 0
+      - path: Assets\Plugins\GitHub\Editor\ReadOnlyCollectionsInterfaces.dll.meta
+        label: ReadOnlyCollectionsInterfaces.dll.meta
+        level: 5
+        isFolder: 0
+        isContainer: 0
+        isCollapsed: 0
+        isHidden: 0
+        isActive: 0
+        treeIsCheckable: 1
+        checkState: 0
+        isLocked: 0
+        gitStatusEntry:
+          path: Assets\Plugins\GitHub\Editor\ReadOnlyCollectionsInterfaces.dll.meta
+          fullPath: C:\Users\ersada\Documents\New Unity Project (2)\Assets\Plugins\GitHub\Editor\ReadOnlyCollectionsInterfaces.dll.meta
+          projectPath: Assets\Plugins\GitHub\Editor\ReadOnlyCollectionsInterfaces.dll.meta
+          originalPath: 
+          status: 1
+          staged: 0
+      - path: Assets\Plugins\GitHub\Editor\Resources.meta
+        label: Resources.meta
+        level: 4
+        isFolder: 0
+        isContainer: 0
+        isCollapsed: 0
+        isHidden: 0
+        isActive: 0
+        treeIsCheckable: 1
+        checkState: 0
+        isLocked: 0
+        gitStatusEntry:
+          path: Assets\Plugins\GitHub\Editor\Resources.meta
+          fullPath: C:\Users\ersada\Documents\New Unity Project (2)\Assets\Plugins\GitHub\Editor\Resources.meta
+          projectPath: Assets\Plugins\GitHub\Editor\Resources.meta
+          originalPath: 
+          status: 1
+          staged: 0
+      - path: Assets\Plugins\GitHub\Editor\Resources
+        label: Resources
+        level: 4
+        isFolder: 1
+        isContainer: 0
+        isCollapsed: 0
+        isHidden: 0
+        isActive: 0
+        treeIsCheckable: 1
+        checkState: 0
+        isLocked: 0
+        gitStatusEntry:
+          path: 
+          fullPath: 
+          projectPath: 
+          originalPath: 
+          status: 0
+          staged: 0
+      - path: Assets\Plugins\GitHub\Editor\Resources\octorun.zip
+        label: octorun.zip
+        level: 5
+        isFolder: 0
+        isContainer: 0
+        isCollapsed: 0
+        isHidden: 0
+        isActive: 0
+        treeIsCheckable: 1
+        checkState: 0
+        isLocked: 0
+        gitStatusEntry:
+          path: Assets\Plugins\GitHub\Editor\Resources\octorun.zip
+          fullPath: C:\Users\ersada\Documents\New Unity Project (2)\Assets\Plugins\GitHub\Editor\Resources\octorun.zip
+          projectPath: Assets\Plugins\GitHub\Editor\Resources\octorun.zip
+          originalPath: 
+          status: 1
+          staged: 0
+      - path: Assets\Plugins\GitHub\Editor\Resources\octorun.zip.md5
+        label: octorun.zip.md5
+        level: 5
+        isFolder: 0
+        isContainer: 1
+        isCollapsed: 0
+        isHidden: 0
+        isActive: 0
+        treeIsCheckable: 1
+        checkState: 0
+        isLocked: 0
+        gitStatusEntry:
+          path: Assets\Plugins\GitHub\Editor\Resources\octorun.zip.md5
+          fullPath: C:\Users\ersada\Documents\New Unity Project (2)\Assets\Plugins\GitHub\Editor\Resources\octorun.zip.md5
+          projectPath: Assets\Plugins\GitHub\Editor\Resources\octorun.zip.md5
+          originalPath: 
+          status: 1
+          staged: 0
+      - path: Assets\Plugins\GitHub\Editor\Resources\octorun.zip.md5.meta
+        label: octorun.zip.md5.meta
+        level: 6
+        isFolder: 0
+        isContainer: 0
+        isCollapsed: 0
+        isHidden: 0
+        isActive: 0
+        treeIsCheckable: 1
+        checkState: 0
+        isLocked: 0
+        gitStatusEntry:
+          path: Assets\Plugins\GitHub\Editor\Resources\octorun.zip.md5.meta
+          fullPath: C:\Users\ersada\Documents\New Unity Project (2)\Assets\Plugins\GitHub\Editor\Resources\octorun.zip.md5.meta
+          projectPath: Assets\Plugins\GitHub\Editor\Resources\octorun.zip.md5.meta
+          originalPath: 
+          status: 1
+          staged: 0
+      - path: Assets\Plugins\GitHub\Editor\Resources\octorun.zip.meta
+        label: octorun.zip.meta
+        level: 5
+        isFolder: 0
+        isContainer: 0
+        isCollapsed: 0
+        isHidden: 0
+        isActive: 0
+        treeIsCheckable: 1
+        checkState: 0
+        isLocked: 0
+        gitStatusEntry:
+          path: Assets\Plugins\GitHub\Editor\Resources\octorun.zip.meta
+          fullPath: C:\Users\ersada\Documents\New Unity Project (2)\Assets\Plugins\GitHub\Editor\Resources\octorun.zip.meta
+          projectPath: Assets\Plugins\GitHub\Editor\Resources\octorun.zip.meta
+          originalPath: 
+          status: 1
+          staged: 0
+      - path: Assets\Plugins\GitHub\Editor\sfw.net.dll
+        label: sfw.net.dll
+        level: 4
+        isFolder: 0
+        isContainer: 1
+        isCollapsed: 0
+        isHidden: 0
+        isActive: 0
+        treeIsCheckable: 1
+        checkState: 0
+        isLocked: 0
+        gitStatusEntry:
+          path: Assets\Plugins\GitHub\Editor\sfw.net.dll
+          fullPath: C:\Users\ersada\Documents\New Unity Project (2)\Assets\Plugins\GitHub\Editor\sfw.net.dll
+          projectPath: Assets\Plugins\GitHub\Editor\sfw.net.dll
+          originalPath: 
+          status: 1
+          staged: 0
+      - path: Assets\Plugins\GitHub\Editor\sfw.net.dll.meta
+        label: sfw.net.dll.meta
+        level: 5
+        isFolder: 0
+        isContainer: 0
+        isCollapsed: 0
+        isHidden: 0
+        isActive: 0
+        treeIsCheckable: 1
+        checkState: 0
+        isLocked: 0
+        gitStatusEntry:
+          path: Assets\Plugins\GitHub\Editor\sfw.net.dll.meta
+          fullPath: C:\Users\ersada\Documents\New Unity Project (2)\Assets\Plugins\GitHub\Editor\sfw.net.dll.meta
+          projectPath: Assets\Plugins\GitHub\Editor\sfw.net.dll.meta
+          originalPath: 
+          status: 1
+          staged: 0
+      - path: Assets\Plugins\GitHub\Editor\System.Threading.dll
+        label: System.Threading.dll
+        level: 4
+        isFolder: 0
+        isContainer: 1
+        isCollapsed: 0
+        isHidden: 0
+        isActive: 0
+        treeIsCheckable: 1
+        checkState: 0
+        isLocked: 0
+        gitStatusEntry:
+          path: Assets\Plugins\GitHub\Editor\System.Threading.dll
+          fullPath: C:\Users\ersada\Documents\New Unity Project (2)\Assets\Plugins\GitHub\Editor\System.Threading.dll
+          projectPath: Assets\Plugins\GitHub\Editor\System.Threading.dll
+          originalPath: 
+          status: 1
+          staged: 0
+      - path: Assets\Plugins\GitHub\Editor\System.Threading.dll.meta
+        label: System.Threading.dll.meta
+        level: 5
+        isFolder: 0
+        isContainer: 0
+        isCollapsed: 0
+        isHidden: 0
+        isActive: 0
+        treeIsCheckable: 1
+        checkState: 0
+        isLocked: 0
+        gitStatusEntry:
+          path: Assets\Plugins\GitHub\Editor\System.Threading.dll.meta
+          fullPath: C:\Users\ersada\Documents\New Unity Project (2)\Assets\Plugins\GitHub\Editor\System.Threading.dll.meta
+          projectPath: Assets\Plugins\GitHub\Editor\System.Threading.dll.meta
+          originalPath: 
+          status: 1
+          staged: 0
+      - path: Assets\Plugins\GitHub\Editor\x64.meta
+        label: x64.meta
+        level: 4
+        isFolder: 0
+        isContainer: 0
+        isCollapsed: 0
+        isHidden: 0
+        isActive: 0
+        treeIsCheckable: 1
+        checkState: 0
+        isLocked: 0
+        gitStatusEntry:
+          path: Assets\Plugins\GitHub\Editor\x64.meta
+          fullPath: C:\Users\ersada\Documents\New Unity Project (2)\Assets\Plugins\GitHub\Editor\x64.meta
+          projectPath: Assets\Plugins\GitHub\Editor\x64.meta
+          originalPath: 
+          status: 1
+          staged: 0
+      - path: Assets\Plugins\GitHub\Editor\x64
+        label: x64
+        level: 4
+        isFolder: 1
+        isContainer: 0
+        isCollapsed: 0
+        isHidden: 0
+        isActive: 0
+        treeIsCheckable: 1
+        checkState: 0
+        isLocked: 0
+        gitStatusEntry:
+          path: 
+          fullPath: 
+          projectPath: 
+          originalPath: 
+          status: 0
+          staged: 0
+      - path: Assets\Plugins\GitHub\Editor\x64\pthreadVC2.dll
+        label: pthreadVC2.dll
+        level: 5
+        isFolder: 0
+        isContainer: 1
+        isCollapsed: 0
+        isHidden: 0
+        isActive: 0
+        treeIsCheckable: 1
+        checkState: 0
+        isLocked: 0
+        gitStatusEntry:
+          path: Assets\Plugins\GitHub\Editor\x64\pthreadVC2.dll
+          fullPath: C:\Users\ersada\Documents\New Unity Project (2)\Assets\Plugins\GitHub\Editor\x64\pthreadVC2.dll
+          projectPath: Assets\Plugins\GitHub\Editor\x64\pthreadVC2.dll
+          originalPath: 
+          status: 1
+          staged: 0
+      - path: Assets\Plugins\GitHub\Editor\x64\pthreadVC2.dll.meta
+        label: pthreadVC2.dll.meta
+        level: 6
+        isFolder: 0
+        isContainer: 0
+        isCollapsed: 0
+        isHidden: 0
+        isActive: 0
+        treeIsCheckable: 1
+        checkState: 0
+        isLocked: 0
+        gitStatusEntry:
+          path: Assets\Plugins\GitHub\Editor\x64\pthreadVC2.dll.meta
+          fullPath: C:\Users\ersada\Documents\New Unity Project (2)\Assets\Plugins\GitHub\Editor\x64\pthreadVC2.dll.meta
+          projectPath: Assets\Plugins\GitHub\Editor\x64\pthreadVC2.dll.meta
+          originalPath: 
+          status: 1
+          staged: 0
+      - path: Assets\Plugins\GitHub\Editor\x64\sfw_x64.dll
+        label: sfw_x64.dll
+        level: 5
+        isFolder: 0
+        isContainer: 1
+        isCollapsed: 0
+        isHidden: 0
+        isActive: 0
+        treeIsCheckable: 1
+        checkState: 0
+        isLocked: 0
+        gitStatusEntry:
+          path: Assets\Plugins\GitHub\Editor\x64\sfw_x64.dll
+          fullPath: C:\Users\ersada\Documents\New Unity Project (2)\Assets\Plugins\GitHub\Editor\x64\sfw_x64.dll
+          projectPath: Assets\Plugins\GitHub\Editor\x64\sfw_x64.dll
+          originalPath: 
+          status: 1
+          staged: 0
+      - path: Assets\Plugins\GitHub\Editor\x64\sfw_x64.dll.meta
+        label: sfw_x64.dll.meta
+        level: 6
+        isFolder: 0
+        isContainer: 0
+        isCollapsed: 0
+        isHidden: 0
+        isActive: 0
+        treeIsCheckable: 1
+        checkState: 0
+        isLocked: 0
+        gitStatusEntry:
+          path: Assets\Plugins\GitHub\Editor\x64\sfw_x64.dll.meta
+          fullPath: C:\Users\ersada\Documents\New Unity Project (2)\Assets\Plugins\GitHub\Editor\x64\sfw_x64.dll.meta
+          projectPath: Assets\Plugins\GitHub\Editor\x64\sfw_x64.dll.meta
+          originalPath: 
+          status: 1
+          staged: 0
+      - path: Assets\Plugins\GitHub\Editor\x86.meta
+        label: x86.meta
+        level: 4
+        isFolder: 0
+        isContainer: 0
+        isCollapsed: 0
+        isHidden: 0
+        isActive: 0
+        treeIsCheckable: 1
+        checkState: 0
+        isLocked: 0
+        gitStatusEntry:
+          path: Assets\Plugins\GitHub\Editor\x86.meta
+          fullPath: C:\Users\ersada\Documents\New Unity Project (2)\Assets\Plugins\GitHub\Editor\x86.meta
+          projectPath: Assets\Plugins\GitHub\Editor\x86.meta
+          originalPath: 
+          status: 1
+          staged: 0
+      - path: Assets\Plugins\GitHub\Editor\x86
+        label: x86
+        level: 4
+        isFolder: 1
+        isContainer: 0
+        isCollapsed: 0
+        isHidden: 0
+        isActive: 0
+        treeIsCheckable: 1
+        checkState: 0
+        isLocked: 0
+        gitStatusEntry:
+          path: 
+          fullPath: 
+          projectPath: 
+          originalPath: 
+          status: 0
+          staged: 0
+      - path: Assets\Plugins\GitHub\Editor\x86\pthreadVC2.dll
+        label: pthreadVC2.dll
+        level: 5
+        isFolder: 0
+        isContainer: 1
+        isCollapsed: 0
+        isHidden: 0
+        isActive: 0
+        treeIsCheckable: 1
+        checkState: 0
+        isLocked: 0
+        gitStatusEntry:
+          path: Assets\Plugins\GitHub\Editor\x86\pthreadVC2.dll
+          fullPath: C:\Users\ersada\Documents\New Unity Project (2)\Assets\Plugins\GitHub\Editor\x86\pthreadVC2.dll
+          projectPath: Assets\Plugins\GitHub\Editor\x86\pthreadVC2.dll
+          originalPath: 
+          status: 1
+          staged: 0
+      - path: Assets\Plugins\GitHub\Editor\x86\pthreadVC2.dll.meta
+        label: pthreadVC2.dll.meta
+        level: 6
+        isFolder: 0
+        isContainer: 0
+        isCollapsed: 0
+        isHidden: 0
+        isActive: 0
+        treeIsCheckable: 1
+        checkState: 0
+        isLocked: 0
+        gitStatusEntry:
+          path: Assets\Plugins\GitHub\Editor\x86\pthreadVC2.dll.meta
+          fullPath: C:\Users\ersada\Documents\New Unity Project (2)\Assets\Plugins\GitHub\Editor\x86\pthreadVC2.dll.meta
+          projectPath: Assets\Plugins\GitHub\Editor\x86\pthreadVC2.dll.meta
+          originalPath: 
+          status: 1
+          staged: 0
+      - path: Assets\Plugins\GitHub\Editor\x86\sfw_x86.dll
+        label: sfw_x86.dll
+        level: 5
+        isFolder: 0
+        isContainer: 1
+        isCollapsed: 0
+        isHidden: 0
+        isActive: 0
+        treeIsCheckable: 1
+        checkState: 0
+        isLocked: 0
+        gitStatusEntry:
+          path: Assets\Plugins\GitHub\Editor\x86\sfw_x86.dll
+          fullPath: C:\Users\ersada\Documents\New Unity Project (2)\Assets\Plugins\GitHub\Editor\x86\sfw_x86.dll
+          projectPath: Assets\Plugins\GitHub\Editor\x86\sfw_x86.dll
+          originalPath: 
+          status: 1
+          staged: 0
+      - path: Assets\Plugins\GitHub\Editor\x86\sfw_x86.dll.meta
+        label: sfw_x86.dll.meta
+        level: 6
+        isFolder: 0
+        isContainer: 0
+        isCollapsed: 0
+        isHidden: 0
+        isActive: 0
+        treeIsCheckable: 1
+        checkState: 0
+        isLocked: 0
+        gitStatusEntry:
+          path: Assets\Plugins\GitHub\Editor\x86\sfw_x86.dll.meta
+          fullPath: C:\Users\ersada\Documents\New Unity Project (2)\Assets\Plugins\GitHub\Editor\x86\sfw_x86.dll.meta
+          projectPath: Assets\Plugins\GitHub\Editor\x86\sfw_x86.dll.meta
+          originalPath: 
+          status: 1
+          staged: 0
+      - path: Assets\test_project.unity
+        label: test_project.unity
+        level: 1
+        isFolder: 0
+        isContainer: 1
+        isCollapsed: 0
+        isHidden: 0
+        isActive: 0
+        treeIsCheckable: 1
+        checkState: 0
+        isLocked: 0
+        gitStatusEntry:
+          path: Assets\test_project.unity
+          fullPath: C:\Users\ersada\Documents\New Unity Project (2)\Assets\test_project.unity
+          projectPath: Assets\test_project.unity
+          originalPath: 
+          status: 1
+          staged: 0
+      - path: Assets\test_project.unity.meta
+        label: test_project.unity.meta
+        level: 2
+        isFolder: 0
+        isContainer: 0
+        isCollapsed: 0
+        isHidden: 0
+        isActive: 0
+        treeIsCheckable: 1
+        checkState: 0
+        isLocked: 0
+        gitStatusEntry:
+          path: Assets\test_project.unity.meta
+          fullPath: C:\Users\ersada\Documents\New Unity Project (2)\Assets\test_project.unity.meta
+          projectPath: Assets\test_project.unity.meta
+          originalPath: 
+          status: 1
+          staged: 0
+      - path: ProjectSettings
+        label: ProjectSettings
+        level: 0
+        isFolder: 1
+        isContainer: 0
+        isCollapsed: 0
+        isHidden: 0
+        isActive: 0
+        treeIsCheckable: 1
+        checkState: 0
+        isLocked: 0
+        gitStatusEntry:
+          path: 
+          fullPath: 
+          projectPath: 
+          originalPath: 
+          status: 0
+          staged: 0
+      - path: ProjectSettings\AudioManager.asset
+        label: AudioManager.asset
+        level: 1
+        isFolder: 0
+        isContainer: 0
+        isCollapsed: 0
+        isHidden: 0
+        isActive: 0
+        treeIsCheckable: 1
+        checkState: 0
+        isLocked: 0
+        gitStatusEntry:
+          path: ProjectSettings\AudioManager.asset
+          fullPath: C:\Users\ersada\Documents\New Unity Project (2)\ProjectSettings\AudioManager.asset
+          projectPath: ProjectSettings\AudioManager.asset
+          originalPath: 
+          status: 1
+          staged: 0
+      - path: ProjectSettings\ClusterInputManager.asset
+        label: ClusterInputManager.asset
+        level: 1
+        isFolder: 0
+        isContainer: 0
+        isCollapsed: 0
+        isHidden: 0
+        isActive: 0
+        treeIsCheckable: 1
+        checkState: 0
+        isLocked: 0
+        gitStatusEntry:
+          path: ProjectSettings\ClusterInputManager.asset
+          fullPath: C:\Users\ersada\Documents\New Unity Project (2)\ProjectSettings\ClusterInputManager.asset
+          projectPath: ProjectSettings\ClusterInputManager.asset
+          originalPath: 
+          status: 1
+          staged: 0
+      - path: ProjectSettings\DynamicsManager.asset
+        label: DynamicsManager.asset
+        level: 1
+        isFolder: 0
+        isContainer: 0
+        isCollapsed: 0
+        isHidden: 0
+        isActive: 0
+        treeIsCheckable: 1
+        checkState: 0
+        isLocked: 0
+        gitStatusEntry:
+          path: ProjectSettings\DynamicsManager.asset
+          fullPath: C:\Users\ersada\Documents\New Unity Project (2)\ProjectSettings\DynamicsManager.asset
+          projectPath: ProjectSettings\DynamicsManager.asset
+          originalPath: 
+          status: 1
+          staged: 0
+      - path: ProjectSettings\EditorBuildSettings.asset
+        label: EditorBuildSettings.asset
+        level: 1
+        isFolder: 0
+        isContainer: 0
+        isCollapsed: 0
+        isHidden: 0
+        isActive: 0
+        treeIsCheckable: 1
+        checkState: 0
+        isLocked: 0
+        gitStatusEntry:
+          path: ProjectSettings\EditorBuildSettings.asset
+          fullPath: C:\Users\ersada\Documents\New Unity Project (2)\ProjectSettings\EditorBuildSettings.asset
+          projectPath: ProjectSettings\EditorBuildSettings.asset
+          originalPath: 
+          status: 1
+          staged: 0
+      - path: ProjectSettings\EditorSettings.asset
+        label: EditorSettings.asset
+        level: 1
+        isFolder: 0
+        isContainer: 0
+        isCollapsed: 0
+        isHidden: 0
+        isActive: 0
+        treeIsCheckable: 1
+        checkState: 0
+        isLocked: 0
+        gitStatusEntry:
+          path: ProjectSettings\EditorSettings.asset
+          fullPath: C:\Users\ersada\Documents\New Unity Project (2)\ProjectSettings\EditorSettings.asset
+          projectPath: ProjectSettings\EditorSettings.asset
+          originalPath: 
+          status: 1
+          staged: 0
+      - path: ProjectSettings\GraphicsSettings.asset
+        label: GraphicsSettings.asset
+        level: 1
+        isFolder: 0
+        isContainer: 0
+        isCollapsed: 0
+        isHidden: 0
+        isActive: 0
+        treeIsCheckable: 1
+        checkState: 0
+        isLocked: 0
+        gitStatusEntry:
+          path: ProjectSettings\GraphicsSettings.asset
+          fullPath: C:\Users\ersada\Documents\New Unity Project (2)\ProjectSettings\GraphicsSettings.asset
+          projectPath: ProjectSettings\GraphicsSettings.asset
+          originalPath: 
+          status: 1
+          staged: 0
+      - path: ProjectSettings\InputManager.asset
+        label: InputManager.asset
+        level: 1
+        isFolder: 0
+        isContainer: 0
+        isCollapsed: 0
+        isHidden: 0
+        isActive: 0
+        treeIsCheckable: 1
+        checkState: 0
+        isLocked: 0
+        gitStatusEntry:
+          path: ProjectSettings\InputManager.asset
+          fullPath: C:\Users\ersada\Documents\New Unity Project (2)\ProjectSettings\InputManager.asset
+          projectPath: ProjectSettings\InputManager.asset
+          originalPath: 
+          status: 1
+          staged: 0
+      - path: ProjectSettings\NavMeshAreas.asset
+        label: NavMeshAreas.asset
+        level: 1
+        isFolder: 0
+        isContainer: 0
+        isCollapsed: 0
+        isHidden: 0
+        isActive: 0
+        treeIsCheckable: 1
+        checkState: 0
+        isLocked: 0
+        gitStatusEntry:
+          path: ProjectSettings\NavMeshAreas.asset
+          fullPath: C:\Users\ersada\Documents\New Unity Project (2)\ProjectSettings\NavMeshAreas.asset
+          projectPath: ProjectSettings\NavMeshAreas.asset
+          originalPath: 
+          status: 1
+          staged: 0
+      - path: ProjectSettings\NetworkManager.asset
+        label: NetworkManager.asset
+        level: 1
+        isFolder: 0
+        isContainer: 0
+        isCollapsed: 0
+        isHidden: 0
+        isActive: 0
+        treeIsCheckable: 1
+        checkState: 0
+        isLocked: 0
+        gitStatusEntry:
+          path: ProjectSettings\NetworkManager.asset
+          fullPath: C:\Users\ersada\Documents\New Unity Project (2)\ProjectSettings\NetworkManager.asset
+          projectPath: ProjectSettings\NetworkManager.asset
+          originalPath: 
+          status: 1
+          staged: 0
+      - path: ProjectSettings\Physics2DSettings.asset
+        label: Physics2DSettings.asset
+        level: 1
+        isFolder: 0
+        isContainer: 0
+        isCollapsed: 0
+        isHidden: 0
+        isActive: 0
+        treeIsCheckable: 1
+        checkState: 0
+        isLocked: 0
+        gitStatusEntry:
+          path: ProjectSettings\Physics2DSettings.asset
+          fullPath: C:\Users\ersada\Documents\New Unity Project (2)\ProjectSettings\Physics2DSettings.asset
+          projectPath: ProjectSettings\Physics2DSettings.asset
+          originalPath: 
+          status: 1
+          staged: 0
+      - path: ProjectSettings\ProjectSettings.asset
+        label: ProjectSettings.asset
+        level: 1
+        isFolder: 0
+        isContainer: 0
+        isCollapsed: 0
+        isHidden: 0
+        isActive: 0
+        treeIsCheckable: 1
+        checkState: 0
+        isLocked: 0
+        gitStatusEntry:
+          path: ProjectSettings\ProjectSettings.asset
+          fullPath: C:\Users\ersada\Documents\New Unity Project (2)\ProjectSettings\ProjectSettings.asset
+          projectPath: ProjectSettings\ProjectSettings.asset
+          originalPath: 
+          status: 1
+          staged: 0
+      - path: ProjectSettings\ProjectVersion.txt
+        label: ProjectVersion.txt
+        level: 1
+        isFolder: 0
+        isContainer: 0
+        isCollapsed: 0
+        isHidden: 0
+        isActive: 0
+        treeIsCheckable: 1
+        checkState: 0
+        isLocked: 0
+        gitStatusEntry:
+          path: ProjectSettings\ProjectVersion.txt
+          fullPath: C:\Users\ersada\Documents\New Unity Project (2)\ProjectSettings\ProjectVersion.txt
+          projectPath: ProjectSettings\ProjectVersion.txt
+          originalPath: 
+          status: 1
+          staged: 0
+      - path: ProjectSettings\QualitySettings.asset
+        label: QualitySettings.asset
+        level: 1
+        isFolder: 0
+        isContainer: 0
+        isCollapsed: 0
+        isHidden: 0
+        isActive: 0
+        treeIsCheckable: 1
+        checkState: 0
+        isLocked: 0
+        gitStatusEntry:
+          path: ProjectSettings\QualitySettings.asset
+          fullPath: C:\Users\ersada\Documents\New Unity Project (2)\ProjectSettings\QualitySettings.asset
+          projectPath: ProjectSettings\QualitySettings.asset
+          originalPath: 
+          status: 1
+          staged: 0
+      - path: ProjectSettings\TagManager.asset
+        label: TagManager.asset
+        level: 1
+        isFolder: 0
+        isContainer: 0
+        isCollapsed: 0
+        isHidden: 0
+        isActive: 0
+        treeIsCheckable: 1
+        checkState: 0
+        isLocked: 0
+        gitStatusEntry:
+          path: ProjectSettings\TagManager.asset
+          fullPath: C:\Users\ersada\Documents\New Unity Project (2)\ProjectSettings\TagManager.asset
+          projectPath: ProjectSettings\TagManager.asset
+          originalPath: 
+          status: 1
+          staged: 0
+      - path: ProjectSettings\TimeManager.asset
+        label: TimeManager.asset
+        level: 1
+        isFolder: 0
+        isContainer: 0
+        isCollapsed: 0
+        isHidden: 0
+        isActive: 0
+        treeIsCheckable: 1
+        checkState: 0
+        isLocked: 0
+        gitStatusEntry:
+          path: ProjectSettings\TimeManager.asset
+          fullPath: C:\Users\ersada\Documents\New Unity Project (2)\ProjectSettings\TimeManager.asset
+          projectPath: ProjectSettings\TimeManager.asset
+          originalPath: 
+          status: 1
+          staged: 0
+      - path: ProjectSettings\UnityConnectSettings.asset
+        label: UnityConnectSettings.asset
+        level: 1
+        isFolder: 0
+        isContainer: 0
+        isCollapsed: 0
+        isHidden: 0
+        isActive: 0
+        treeIsCheckable: 1
+        checkState: 0
+        isLocked: 0
+        gitStatusEntry:
+          path: ProjectSettings\UnityConnectSettings.asset
+          fullPath: C:\Users\ersada\Documents\New Unity Project (2)\ProjectSettings\UnityConnectSettings.asset
+          projectPath: ProjectSettings\UnityConnectSettings.asset
+          originalPath: 
+          status: 1
+          staged: 0
+      - path: UnityPackageManager
+        label: UnityPackageManager
+        level: 0
+        isFolder: 1
+        isContainer: 0
+        isCollapsed: 0
+        isHidden: 0
+        isActive: 0
+        treeIsCheckable: 1
+        checkState: 0
+        isLocked: 0
+        gitStatusEntry:
+          path: 
+          fullPath: 
+          projectPath: 
+          originalPath: 
+          status: 0
+          staged: 0
+      - path: UnityPackageManager\manifest.json
+        label: manifest.json
+        level: 1
+        isFolder: 0
+        isContainer: 0
+        isCollapsed: 0
+        isHidden: 0
+        isActive: 0
+        treeIsCheckable: 1
+        checkState: 0
+        isLocked: 0
+        gitStatusEntry:
+          path: UnityPackageManager\manifest.json
+          fullPath: C:\Users\ersada\Documents\New Unity Project (2)\UnityPackageManager\manifest.json
+          projectPath: UnityPackageManager\manifest.json
+          originalPath: 
+          status: 1
+          staged: 0
+      selectedNode:
+        path: 
+        label: 
+        level: 0
+        isFolder: 0
+        isContainer: 0
+        isCollapsed: 0
+        isHidden: 0
+        isActive: 0
+        treeIsCheckable: 0
+        checkState: 0
+        isLocked: 0
+        gitStatusEntry:
+          path: 
+          fullPath: 
+          projectPath: 
+          originalPath: 
+          status: 0
+          staged: 0
+    gitStatusEntries:
+    - path: Assets\Plugins.meta
+      fullPath: C:\Users\ersada\Documents\New Unity Project (2)\Assets\Plugins.meta
+      projectPath: Assets\Plugins.meta
+      originalPath: 
+      status: 1
+      staged: 0
+    - path: Assets\Plugins\GitHub.meta
+      fullPath: C:\Users\ersada\Documents\New Unity Project (2)\Assets\Plugins\GitHub.meta
+      projectPath: Assets\Plugins\GitHub.meta
+      originalPath: 
+      status: 1
+      staged: 0
+    - path: Assets\Plugins\GitHub\Editor.meta
+      fullPath: C:\Users\ersada\Documents\New Unity Project (2)\Assets\Plugins\GitHub\Editor.meta
+      projectPath: Assets\Plugins\GitHub\Editor.meta
+      originalPath: 
+      status: 1
+      staged: 0
+    - path: Assets\Plugins\GitHub\Editor\AsyncBridge.Net35.dll
+      fullPath: C:\Users\ersada\Documents\New Unity Project (2)\Assets\Plugins\GitHub\Editor\AsyncBridge.Net35.dll
+      projectPath: Assets\Plugins\GitHub\Editor\AsyncBridge.Net35.dll
+      originalPath: 
+      status: 1
+      staged: 0
+    - path: Assets\Plugins\GitHub\Editor\AsyncBridge.Net35.dll.meta
+      fullPath: C:\Users\ersada\Documents\New Unity Project (2)\Assets\Plugins\GitHub\Editor\AsyncBridge.Net35.dll.meta
+      projectPath: Assets\Plugins\GitHub\Editor\AsyncBridge.Net35.dll.meta
+      originalPath: 
+      status: 1
+      staged: 0
+    - path: Assets\Plugins\GitHub\Editor\CREDITS.txt
+      fullPath: C:\Users\ersada\Documents\New Unity Project (2)\Assets\Plugins\GitHub\Editor\CREDITS.txt
+      projectPath: Assets\Plugins\GitHub\Editor\CREDITS.txt
+      originalPath: 
+      status: 1
+      staged: 0
+    - path: Assets\Plugins\GitHub\Editor\CREDITS.txt.meta
+      fullPath: C:\Users\ersada\Documents\New Unity Project (2)\Assets\Plugins\GitHub\Editor\CREDITS.txt.meta
+      projectPath: Assets\Plugins\GitHub\Editor\CREDITS.txt.meta
+      originalPath: 
+      status: 1
+      staged: 0
+    - path: Assets\Plugins\GitHub\Editor\EULA.txt
+      fullPath: C:\Users\ersada\Documents\New Unity Project (2)\Assets\Plugins\GitHub\Editor\EULA.txt
+      projectPath: Assets\Plugins\GitHub\Editor\EULA.txt
+      originalPath: 
+      status: 1
+      staged: 0
+    - path: Assets\Plugins\GitHub\Editor\EULA.txt.meta
+      fullPath: C:\Users\ersada\Documents\New Unity Project (2)\Assets\Plugins\GitHub\Editor\EULA.txt.meta
+      projectPath: Assets\Plugins\GitHub\Editor\EULA.txt.meta
+      originalPath: 
+      status: 1
+      staged: 0
+    - path: Assets\Plugins\GitHub\Editor\GitHub.Api.dll
+      fullPath: C:\Users\ersada\Documents\New Unity Project (2)\Assets\Plugins\GitHub\Editor\GitHub.Api.dll
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.Api.dll
+      originalPath: 
+      status: 1
+      staged: 0
+    - path: Assets\Plugins\GitHub\Editor\GitHub.Api.dll.mdb
+      fullPath: C:\Users\ersada\Documents\New Unity Project (2)\Assets\Plugins\GitHub\Editor\GitHub.Api.dll.mdb
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.Api.dll.mdb
+      originalPath: 
+      status: 1
+      staged: 0
+    - path: Assets\Plugins\GitHub\Editor\GitHub.Api.dll.mdb.meta
+      fullPath: C:\Users\ersada\Documents\New Unity Project (2)\Assets\Plugins\GitHub\Editor\GitHub.Api.dll.mdb.meta
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.Api.dll.mdb.meta
+      originalPath: 
+      status: 1
+      staged: 0
+    - path: Assets\Plugins\GitHub\Editor\GitHub.Api.dll.meta
+      fullPath: C:\Users\ersada\Documents\New Unity Project (2)\Assets\Plugins\GitHub\Editor\GitHub.Api.dll.meta
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.Api.dll.meta
+      originalPath: 
+      status: 1
+      staged: 0
+    - path: Assets\Plugins\GitHub\Editor\GitHub.Logging.dll
+      fullPath: C:\Users\ersada\Documents\New Unity Project (2)\Assets\Plugins\GitHub\Editor\GitHub.Logging.dll
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.Logging.dll
+      originalPath: 
+      status: 1
+      staged: 0
+    - path: Assets\Plugins\GitHub\Editor\GitHub.Logging.dll.mdb
+      fullPath: C:\Users\ersada\Documents\New Unity Project (2)\Assets\Plugins\GitHub\Editor\GitHub.Logging.dll.mdb
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.Logging.dll.mdb
+      originalPath: 
+      status: 1
+      staged: 0
+    - path: Assets\Plugins\GitHub\Editor\GitHub.Logging.dll.mdb.meta
+      fullPath: C:\Users\ersada\Documents\New Unity Project (2)\Assets\Plugins\GitHub\Editor\GitHub.Logging.dll.mdb.meta
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.Logging.dll.mdb.meta
+      originalPath: 
+      status: 1
+      staged: 0
+    - path: Assets\Plugins\GitHub\Editor\GitHub.Logging.dll.meta
+      fullPath: C:\Users\ersada\Documents\New Unity Project (2)\Assets\Plugins\GitHub\Editor\GitHub.Logging.dll.meta
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.Logging.dll.meta
+      originalPath: 
+      status: 1
+      staged: 0
+    - path: Assets\Plugins\GitHub\Editor\GitHub.Unity.dll
+      fullPath: C:\Users\ersada\Documents\New Unity Project (2)\Assets\Plugins\GitHub\Editor\GitHub.Unity.dll
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.Unity.dll
+      originalPath: 
+      status: 1
+      staged: 0
+    - path: Assets\Plugins\GitHub\Editor\GitHub.Unity.dll.mdb
+      fullPath: C:\Users\ersada\Documents\New Unity Project (2)\Assets\Plugins\GitHub\Editor\GitHub.Unity.dll.mdb
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.Unity.dll.mdb
+      originalPath: 
+      status: 1
+      staged: 0
+    - path: Assets\Plugins\GitHub\Editor\GitHub.Unity.dll.mdb.meta
+      fullPath: C:\Users\ersada\Documents\New Unity Project (2)\Assets\Plugins\GitHub\Editor\GitHub.Unity.dll.mdb.meta
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.Unity.dll.mdb.meta
+      originalPath: 
+      status: 1
+      staged: 0
+    - path: Assets\Plugins\GitHub\Editor\GitHub.Unity.dll.meta
+      fullPath: C:\Users\ersada\Documents\New Unity Project (2)\Assets\Plugins\GitHub\Editor\GitHub.Unity.dll.meta
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.Unity.dll.meta
+      originalPath: 
+      status: 1
+      staged: 0
+    - path: Assets\Plugins\GitHub\Editor\ICSharpCode.SharpZipLib.dll
+      fullPath: C:\Users\ersada\Documents\New Unity Project (2)\Assets\Plugins\GitHub\Editor\ICSharpCode.SharpZipLib.dll
+      projectPath: Assets\Plugins\GitHub\Editor\ICSharpCode.SharpZipLib.dll
+      originalPath: 
+      status: 1
+      staged: 0
+    - path: Assets\Plugins\GitHub\Editor\ICSharpCode.SharpZipLib.dll.meta
+      fullPath: C:\Users\ersada\Documents\New Unity Project (2)\Assets\Plugins\GitHub\Editor\ICSharpCode.SharpZipLib.dll.meta
+      projectPath: Assets\Plugins\GitHub\Editor\ICSharpCode.SharpZipLib.dll.meta
+      originalPath: 
+      status: 1
+      staged: 0
+    - path: Assets\Plugins\GitHub\Editor\libsfw.bundle
+      fullPath: C:\Users\ersada\Documents\New Unity Project (2)\Assets\Plugins\GitHub\Editor\libsfw.bundle
+      projectPath: Assets\Plugins\GitHub\Editor\libsfw.bundle
+      originalPath: 
+      status: 1
+      staged: 0
+    - path: Assets\Plugins\GitHub\Editor\libsfw.bundle.meta
+      fullPath: C:\Users\ersada\Documents\New Unity Project (2)\Assets\Plugins\GitHub\Editor\libsfw.bundle.meta
+      projectPath: Assets\Plugins\GitHub\Editor\libsfw.bundle.meta
+      originalPath: 
+      status: 1
+      staged: 0
+    - path: Assets\Plugins\GitHub\Editor\libsfw.so
+      fullPath: C:\Users\ersada\Documents\New Unity Project (2)\Assets\Plugins\GitHub\Editor\libsfw.so
+      projectPath: Assets\Plugins\GitHub\Editor\libsfw.so
+      originalPath: 
+      status: 1
+      staged: 0
+    - path: Assets\Plugins\GitHub\Editor\libsfw.so.meta
+      fullPath: C:\Users\ersada\Documents\New Unity Project (2)\Assets\Plugins\GitHub\Editor\libsfw.so.meta
+      projectPath: Assets\Plugins\GitHub\Editor\libsfw.so.meta
+      originalPath: 
+      status: 1
+      staged: 0
+    - path: Assets\Plugins\GitHub\Editor\Mono.Posix.dll
+      fullPath: C:\Users\ersada\Documents\New Unity Project (2)\Assets\Plugins\GitHub\Editor\Mono.Posix.dll
+      projectPath: Assets\Plugins\GitHub\Editor\Mono.Posix.dll
+      originalPath: 
+      status: 1
+      staged: 0
+    - path: Assets\Plugins\GitHub\Editor\Mono.Posix.dll.meta
+      fullPath: C:\Users\ersada\Documents\New Unity Project (2)\Assets\Plugins\GitHub\Editor\Mono.Posix.dll.meta
+      projectPath: Assets\Plugins\GitHub\Editor\Mono.Posix.dll.meta
+      originalPath: 
+      status: 1
+      staged: 0
+    - path: Assets\Plugins\GitHub\Editor\Mono.Security.dll
+      fullPath: C:\Users\ersada\Documents\New Unity Project (2)\Assets\Plugins\GitHub\Editor\Mono.Security.dll
+      projectPath: Assets\Plugins\GitHub\Editor\Mono.Security.dll
+      originalPath: 
+      status: 1
+      staged: 0
+    - path: Assets\Plugins\GitHub\Editor\Mono.Security.dll.meta
+      fullPath: C:\Users\ersada\Documents\New Unity Project (2)\Assets\Plugins\GitHub\Editor\Mono.Security.dll.meta
+      projectPath: Assets\Plugins\GitHub\Editor\Mono.Security.dll.meta
+      originalPath: 
+      status: 1
+      staged: 0
+    - path: Assets\Plugins\GitHub\Editor\PlatformResources.meta
+      fullPath: C:\Users\ersada\Documents\New Unity Project (2)\Assets\Plugins\GitHub\Editor\PlatformResources.meta
+      projectPath: Assets\Plugins\GitHub\Editor\PlatformResources.meta
+      originalPath: 
+      status: 1
+      staged: 0
+    - path: Assets\Plugins\GitHub\Editor\PlatformResources\linux.meta
+      fullPath: C:\Users\ersada\Documents\New Unity Project (2)\Assets\Plugins\GitHub\Editor\PlatformResources\linux.meta
+      projectPath: Assets\Plugins\GitHub\Editor\PlatformResources\linux.meta
+      originalPath: 
+      status: 1
+      staged: 0
+    - path: Assets\Plugins\GitHub\Editor\PlatformResources\linux\gitconfig
+      fullPath: C:\Users\ersada\Documents\New Unity Project (2)\Assets\Plugins\GitHub\Editor\PlatformResources\linux\gitconfig
+      projectPath: Assets\Plugins\GitHub\Editor\PlatformResources\linux\gitconfig
+      originalPath: 
+      status: 1
+      staged: 0
+    - path: Assets\Plugins\GitHub\Editor\PlatformResources\linux\gitconfig.meta
+      fullPath: C:\Users\ersada\Documents\New Unity Project (2)\Assets\Plugins\GitHub\Editor\PlatformResources\linux\gitconfig.meta
+      projectPath: Assets\Plugins\GitHub\Editor\PlatformResources\linux\gitconfig.meta
+      originalPath: 
+      status: 1
+      staged: 0
+    - path: Assets\Plugins\GitHub\Editor\PlatformResources\linux\git-lfs.zip
+      fullPath: C:\Users\ersada\Documents\New Unity Project (2)\Assets\Plugins\GitHub\Editor\PlatformResources\linux\git-lfs.zip
+      projectPath: Assets\Plugins\GitHub\Editor\PlatformResources\linux\git-lfs.zip
+      originalPath: 
+      status: 1
+      staged: 0
+    - path: Assets\Plugins\GitHub\Editor\PlatformResources\linux\git-lfs.zip.md5
+      fullPath: C:\Users\ersada\Documents\New Unity Project (2)\Assets\Plugins\GitHub\Editor\PlatformResources\linux\git-lfs.zip.md5
+      projectPath: Assets\Plugins\GitHub\Editor\PlatformResources\linux\git-lfs.zip.md5
+      originalPath: 
+      status: 1
+      staged: 0
+    - path: Assets\Plugins\GitHub\Editor\PlatformResources\linux\git-lfs.zip.md5.meta
+      fullPath: C:\Users\ersada\Documents\New Unity Project (2)\Assets\Plugins\GitHub\Editor\PlatformResources\linux\git-lfs.zip.md5.meta
+      projectPath: Assets\Plugins\GitHub\Editor\PlatformResources\linux\git-lfs.zip.md5.meta
+      originalPath: 
+      status: 1
+      staged: 0
+    - path: Assets\Plugins\GitHub\Editor\PlatformResources\linux\git-lfs.zip.meta
+      fullPath: C:\Users\ersada\Documents\New Unity Project (2)\Assets\Plugins\GitHub\Editor\PlatformResources\linux\git-lfs.zip.meta
+      projectPath: Assets\Plugins\GitHub\Editor\PlatformResources\linux\git-lfs.zip.meta
+      originalPath: 
+      status: 1
+      staged: 0
+    - path: Assets\Plugins\GitHub\Editor\PlatformResources\mac.meta
+      fullPath: C:\Users\ersada\Documents\New Unity Project (2)\Assets\Plugins\GitHub\Editor\PlatformResources\mac.meta
+      projectPath: Assets\Plugins\GitHub\Editor\PlatformResources\mac.meta
+      originalPath: 
+      status: 1
+      staged: 0
+    - path: Assets\Plugins\GitHub\Editor\PlatformResources\mac\gitconfig
+      fullPath: C:\Users\ersada\Documents\New Unity Project (2)\Assets\Plugins\GitHub\Editor\PlatformResources\mac\gitconfig
+      projectPath: Assets\Plugins\GitHub\Editor\PlatformResources\mac\gitconfig
+      originalPath: 
+      status: 1
+      staged: 0
+    - path: Assets\Plugins\GitHub\Editor\PlatformResources\mac\gitconfig.meta
+      fullPath: C:\Users\ersada\Documents\New Unity Project (2)\Assets\Plugins\GitHub\Editor\PlatformResources\mac\gitconfig.meta
+      projectPath: Assets\Plugins\GitHub\Editor\PlatformResources\mac\gitconfig.meta
+      originalPath: 
+      status: 1
+      staged: 0
+    - path: Assets\Plugins\GitHub\Editor\PlatformResources\mac\git-lfs.zip
+      fullPath: C:\Users\ersada\Documents\New Unity Project (2)\Assets\Plugins\GitHub\Editor\PlatformResources\mac\git-lfs.zip
+      projectPath: Assets\Plugins\GitHub\Editor\PlatformResources\mac\git-lfs.zip
+      originalPath: 
+      status: 1
+      staged: 0
+    - path: Assets\Plugins\GitHub\Editor\PlatformResources\mac\git-lfs.zip.md5
+      fullPath: C:\Users\ersada\Documents\New Unity Project (2)\Assets\Plugins\GitHub\Editor\PlatformResources\mac\git-lfs.zip.md5
+      projectPath: Assets\Plugins\GitHub\Editor\PlatformResources\mac\git-lfs.zip.md5
+      originalPath: 
+      status: 1
+      staged: 0
+    - path: Assets\Plugins\GitHub\Editor\PlatformResources\mac\git-lfs.zip.md5.meta
+      fullPath: C:\Users\ersada\Documents\New Unity Project (2)\Assets\Plugins\GitHub\Editor\PlatformResources\mac\git-lfs.zip.md5.meta
+      projectPath: Assets\Plugins\GitHub\Editor\PlatformResources\mac\git-lfs.zip.md5.meta
+      originalPath: 
+      status: 1
+      staged: 0
+    - path: Assets\Plugins\GitHub\Editor\PlatformResources\mac\git-lfs.zip.meta
+      fullPath: C:\Users\ersada\Documents\New Unity Project (2)\Assets\Plugins\GitHub\Editor\PlatformResources\mac\git-lfs.zip.meta
+      projectPath: Assets\Plugins\GitHub\Editor\PlatformResources\mac\git-lfs.zip.meta
+      originalPath: 
+      status: 1
+      staged: 0
+    - path: Assets\Plugins\GitHub\Editor\PlatformResources\windows.meta
+      fullPath: C:\Users\ersada\Documents\New Unity Project (2)\Assets\Plugins\GitHub\Editor\PlatformResources\windows.meta
+      projectPath: Assets\Plugins\GitHub\Editor\PlatformResources\windows.meta
+      originalPath: 
+      status: 1
+      staged: 0
+    - path: Assets\Plugins\GitHub\Editor\PlatformResources\windows\git.zip
+      fullPath: C:\Users\ersada\Documents\New Unity Project (2)\Assets\Plugins\GitHub\Editor\PlatformResources\windows\git.zip
+      projectPath: Assets\Plugins\GitHub\Editor\PlatformResources\windows\git.zip
+      originalPath: 
+      status: 1
+      staged: 0
+    - path: Assets\Plugins\GitHub\Editor\PlatformResources\windows\git.zip.md5
+      fullPath: C:\Users\ersada\Documents\New Unity Project (2)\Assets\Plugins\GitHub\Editor\PlatformResources\windows\git.zip.md5
+      projectPath: Assets\Plugins\GitHub\Editor\PlatformResources\windows\git.zip.md5
+      originalPath: 
+      status: 1
+      staged: 0
+    - path: Assets\Plugins\GitHub\Editor\PlatformResources\windows\git.zip.md5.meta
+      fullPath: C:\Users\ersada\Documents\New Unity Project (2)\Assets\Plugins\GitHub\Editor\PlatformResources\windows\git.zip.md5.meta
+      projectPath: Assets\Plugins\GitHub\Editor\PlatformResources\windows\git.zip.md5.meta
+      originalPath: 
+      status: 1
+      staged: 0
+    - path: Assets\Plugins\GitHub\Editor\PlatformResources\windows\git.zip.meta
+      fullPath: C:\Users\ersada\Documents\New Unity Project (2)\Assets\Plugins\GitHub\Editor\PlatformResources\windows\git.zip.meta
+      projectPath: Assets\Plugins\GitHub\Editor\PlatformResources\windows\git.zip.meta
+      originalPath: 
+      status: 1
+      staged: 0
+    - path: Assets\Plugins\GitHub\Editor\PlatformResources\windows\gitconfig
+      fullPath: C:\Users\ersada\Documents\New Unity Project (2)\Assets\Plugins\GitHub\Editor\PlatformResources\windows\gitconfig
+      projectPath: Assets\Plugins\GitHub\Editor\PlatformResources\windows\gitconfig
+      originalPath: 
+      status: 1
+      staged: 0
+    - path: Assets\Plugins\GitHub\Editor\PlatformResources\windows\gitconfig.meta
+      fullPath: C:\Users\ersada\Documents\New Unity Project (2)\Assets\Plugins\GitHub\Editor\PlatformResources\windows\gitconfig.meta
+      projectPath: Assets\Plugins\GitHub\Editor\PlatformResources\windows\gitconfig.meta
+      originalPath: 
+      status: 1
+      staged: 0
+    - path: Assets\Plugins\GitHub\Editor\PlatformResources\windows\git-lfs.zip
+      fullPath: C:\Users\ersada\Documents\New Unity Project (2)\Assets\Plugins\GitHub\Editor\PlatformResources\windows\git-lfs.zip
+      projectPath: Assets\Plugins\GitHub\Editor\PlatformResources\windows\git-lfs.zip
+      originalPath: 
+      status: 1
+      staged: 0
+    - path: Assets\Plugins\GitHub\Editor\PlatformResources\windows\git-lfs.zip.md5
+      fullPath: C:\Users\ersada\Documents\New Unity Project (2)\Assets\Plugins\GitHub\Editor\PlatformResources\windows\git-lfs.zip.md5
+      projectPath: Assets\Plugins\GitHub\Editor\PlatformResources\windows\git-lfs.zip.md5
+      originalPath: 
+      status: 1
+      staged: 0
+    - path: Assets\Plugins\GitHub\Editor\PlatformResources\windows\git-lfs.zip.md5.meta
+      fullPath: C:\Users\ersada\Documents\New Unity Project (2)\Assets\Plugins\GitHub\Editor\PlatformResources\windows\git-lfs.zip.md5.meta
+      projectPath: Assets\Plugins\GitHub\Editor\PlatformResources\windows\git-lfs.zip.md5.meta
+      originalPath: 
+      status: 1
+      staged: 0
+    - path: Assets\Plugins\GitHub\Editor\PlatformResources\windows\git-lfs.zip.meta
+      fullPath: C:\Users\ersada\Documents\New Unity Project (2)\Assets\Plugins\GitHub\Editor\PlatformResources\windows\git-lfs.zip.meta
+      projectPath: Assets\Plugins\GitHub\Editor\PlatformResources\windows\git-lfs.zip.meta
+      originalPath: 
+      status: 1
+      staged: 0
+    - path: Assets\Plugins\GitHub\Editor\ReadOnlyCollectionsInterfaces.dll
+      fullPath: C:\Users\ersada\Documents\New Unity Project (2)\Assets\Plugins\GitHub\Editor\ReadOnlyCollectionsInterfaces.dll
+      projectPath: Assets\Plugins\GitHub\Editor\ReadOnlyCollectionsInterfaces.dll
+      originalPath: 
+      status: 1
+      staged: 0
+    - path: Assets\Plugins\GitHub\Editor\ReadOnlyCollectionsInterfaces.dll.meta
+      fullPath: C:\Users\ersada\Documents\New Unity Project (2)\Assets\Plugins\GitHub\Editor\ReadOnlyCollectionsInterfaces.dll.meta
+      projectPath: Assets\Plugins\GitHub\Editor\ReadOnlyCollectionsInterfaces.dll.meta
+      originalPath: 
+      status: 1
+      staged: 0
+    - path: Assets\Plugins\GitHub\Editor\Resources.meta
+      fullPath: C:\Users\ersada\Documents\New Unity Project (2)\Assets\Plugins\GitHub\Editor\Resources.meta
+      projectPath: Assets\Plugins\GitHub\Editor\Resources.meta
+      originalPath: 
+      status: 1
+      staged: 0
+    - path: Assets\Plugins\GitHub\Editor\Resources\octorun.zip
+      fullPath: C:\Users\ersada\Documents\New Unity Project (2)\Assets\Plugins\GitHub\Editor\Resources\octorun.zip
+      projectPath: Assets\Plugins\GitHub\Editor\Resources\octorun.zip
+      originalPath: 
+      status: 1
+      staged: 0
+    - path: Assets\Plugins\GitHub\Editor\Resources\octorun.zip.md5
+      fullPath: C:\Users\ersada\Documents\New Unity Project (2)\Assets\Plugins\GitHub\Editor\Resources\octorun.zip.md5
+      projectPath: Assets\Plugins\GitHub\Editor\Resources\octorun.zip.md5
+      originalPath: 
+      status: 1
+      staged: 0
+    - path: Assets\Plugins\GitHub\Editor\Resources\octorun.zip.md5.meta
+      fullPath: C:\Users\ersada\Documents\New Unity Project (2)\Assets\Plugins\GitHub\Editor\Resources\octorun.zip.md5.meta
+      projectPath: Assets\Plugins\GitHub\Editor\Resources\octorun.zip.md5.meta
+      originalPath: 
+      status: 1
+      staged: 0
+    - path: Assets\Plugins\GitHub\Editor\Resources\octorun.zip.meta
+      fullPath: C:\Users\ersada\Documents\New Unity Project (2)\Assets\Plugins\GitHub\Editor\Resources\octorun.zip.meta
+      projectPath: Assets\Plugins\GitHub\Editor\Resources\octorun.zip.meta
+      originalPath: 
+      status: 1
+      staged: 0
+    - path: Assets\Plugins\GitHub\Editor\sfw.net.dll
+      fullPath: C:\Users\ersada\Documents\New Unity Project (2)\Assets\Plugins\GitHub\Editor\sfw.net.dll
+      projectPath: Assets\Plugins\GitHub\Editor\sfw.net.dll
+      originalPath: 
+      status: 1
+      staged: 0
+    - path: Assets\Plugins\GitHub\Editor\sfw.net.dll.meta
+      fullPath: C:\Users\ersada\Documents\New Unity Project (2)\Assets\Plugins\GitHub\Editor\sfw.net.dll.meta
+      projectPath: Assets\Plugins\GitHub\Editor\sfw.net.dll.meta
+      originalPath: 
+      status: 1
+      staged: 0
+    - path: Assets\Plugins\GitHub\Editor\System.Threading.dll
+      fullPath: C:\Users\ersada\Documents\New Unity Project (2)\Assets\Plugins\GitHub\Editor\System.Threading.dll
+      projectPath: Assets\Plugins\GitHub\Editor\System.Threading.dll
+      originalPath: 
+      status: 1
+      staged: 0
+    - path: Assets\Plugins\GitHub\Editor\System.Threading.dll.meta
+      fullPath: C:\Users\ersada\Documents\New Unity Project (2)\Assets\Plugins\GitHub\Editor\System.Threading.dll.meta
+      projectPath: Assets\Plugins\GitHub\Editor\System.Threading.dll.meta
+      originalPath: 
+      status: 1
+      staged: 0
+    - path: Assets\Plugins\GitHub\Editor\x64.meta
+      fullPath: C:\Users\ersada\Documents\New Unity Project (2)\Assets\Plugins\GitHub\Editor\x64.meta
+      projectPath: Assets\Plugins\GitHub\Editor\x64.meta
+      originalPath: 
+      status: 1
+      staged: 0
+    - path: Assets\Plugins\GitHub\Editor\x64\pthreadVC2.dll
+      fullPath: C:\Users\ersada\Documents\New Unity Project (2)\Assets\Plugins\GitHub\Editor\x64\pthreadVC2.dll
+      projectPath: Assets\Plugins\GitHub\Editor\x64\pthreadVC2.dll
+      originalPath: 
+      status: 1
+      staged: 0
+    - path: Assets\Plugins\GitHub\Editor\x64\pthreadVC2.dll.meta
+      fullPath: C:\Users\ersada\Documents\New Unity Project (2)\Assets\Plugins\GitHub\Editor\x64\pthreadVC2.dll.meta
+      projectPath: Assets\Plugins\GitHub\Editor\x64\pthreadVC2.dll.meta
+      originalPath: 
+      status: 1
+      staged: 0
+    - path: Assets\Plugins\GitHub\Editor\x64\sfw_x64.dll
+      fullPath: C:\Users\ersada\Documents\New Unity Project (2)\Assets\Plugins\GitHub\Editor\x64\sfw_x64.dll
+      projectPath: Assets\Plugins\GitHub\Editor\x64\sfw_x64.dll
+      originalPath: 
+      status: 1
+      staged: 0
+    - path: Assets\Plugins\GitHub\Editor\x64\sfw_x64.dll.meta
+      fullPath: C:\Users\ersada\Documents\New Unity Project (2)\Assets\Plugins\GitHub\Editor\x64\sfw_x64.dll.meta
+      projectPath: Assets\Plugins\GitHub\Editor\x64\sfw_x64.dll.meta
+      originalPath: 
+      status: 1
+      staged: 0
+    - path: Assets\Plugins\GitHub\Editor\x86.meta
+      fullPath: C:\Users\ersada\Documents\New Unity Project (2)\Assets\Plugins\GitHub\Editor\x86.meta
+      projectPath: Assets\Plugins\GitHub\Editor\x86.meta
+      originalPath: 
+      status: 1
+      staged: 0
+    - path: Assets\Plugins\GitHub\Editor\x86\pthreadVC2.dll
+      fullPath: C:\Users\ersada\Documents\New Unity Project (2)\Assets\Plugins\GitHub\Editor\x86\pthreadVC2.dll
+      projectPath: Assets\Plugins\GitHub\Editor\x86\pthreadVC2.dll
+      originalPath: 
+      status: 1
+      staged: 0
+    - path: Assets\Plugins\GitHub\Editor\x86\pthreadVC2.dll.meta
+      fullPath: C:\Users\ersada\Documents\New Unity Project (2)\Assets\Plugins\GitHub\Editor\x86\pthreadVC2.dll.meta
+      projectPath: Assets\Plugins\GitHub\Editor\x86\pthreadVC2.dll.meta
+      originalPath: 
+      status: 1
+      staged: 0
+    - path: Assets\Plugins\GitHub\Editor\x86\sfw_x86.dll
+      fullPath: C:\Users\ersada\Documents\New Unity Project (2)\Assets\Plugins\GitHub\Editor\x86\sfw_x86.dll
+      projectPath: Assets\Plugins\GitHub\Editor\x86\sfw_x86.dll
+      originalPath: 
+      status: 1
+      staged: 0
+    - path: Assets\Plugins\GitHub\Editor\x86\sfw_x86.dll.meta
+      fullPath: C:\Users\ersada\Documents\New Unity Project (2)\Assets\Plugins\GitHub\Editor\x86\sfw_x86.dll.meta
+      projectPath: Assets\Plugins\GitHub\Editor\x86\sfw_x86.dll.meta
+      originalPath: 
+      status: 1
+      staged: 0
+    - path: Assets\test_project.unity
+      fullPath: C:\Users\ersada\Documents\New Unity Project (2)\Assets\test_project.unity
+      projectPath: Assets\test_project.unity
+      originalPath: 
+      status: 1
+      staged: 0
+    - path: Assets\test_project.unity.meta
+      fullPath: C:\Users\ersada\Documents\New Unity Project (2)\Assets\test_project.unity.meta
+      projectPath: Assets\test_project.unity.meta
+      originalPath: 
+      status: 1
+      staged: 0
+    - path: ProjectSettings\AudioManager.asset
+      fullPath: C:\Users\ersada\Documents\New Unity Project (2)\ProjectSettings\AudioManager.asset
+      projectPath: ProjectSettings\AudioManager.asset
+      originalPath: 
+      status: 1
+      staged: 0
+    - path: ProjectSettings\ClusterInputManager.asset
+      fullPath: C:\Users\ersada\Documents\New Unity Project (2)\ProjectSettings\ClusterInputManager.asset
+      projectPath: ProjectSettings\ClusterInputManager.asset
+      originalPath: 
+      status: 1
+      staged: 0
+    - path: ProjectSettings\DynamicsManager.asset
+      fullPath: C:\Users\ersada\Documents\New Unity Project (2)\ProjectSettings\DynamicsManager.asset
+      projectPath: ProjectSettings\DynamicsManager.asset
+      originalPath: 
+      status: 1
+      staged: 0
+    - path: ProjectSettings\EditorBuildSettings.asset
+      fullPath: C:\Users\ersada\Documents\New Unity Project (2)\ProjectSettings\EditorBuildSettings.asset
+      projectPath: ProjectSettings\EditorBuildSettings.asset
+      originalPath: 
+      status: 1
+      staged: 0
+    - path: ProjectSettings\EditorSettings.asset
+      fullPath: C:\Users\ersada\Documents\New Unity Project (2)\ProjectSettings\EditorSettings.asset
+      projectPath: ProjectSettings\EditorSettings.asset
+      originalPath: 
+      status: 1
+      staged: 0
+    - path: ProjectSettings\GraphicsSettings.asset
+      fullPath: C:\Users\ersada\Documents\New Unity Project (2)\ProjectSettings\GraphicsSettings.asset
+      projectPath: ProjectSettings\GraphicsSettings.asset
+      originalPath: 
+      status: 1
+      staged: 0
+    - path: ProjectSettings\InputManager.asset
+      fullPath: C:\Users\ersada\Documents\New Unity Project (2)\ProjectSettings\InputManager.asset
+      projectPath: ProjectSettings\InputManager.asset
+      originalPath: 
+      status: 1
+      staged: 0
+    - path: ProjectSettings\NavMeshAreas.asset
+      fullPath: C:\Users\ersada\Documents\New Unity Project (2)\ProjectSettings\NavMeshAreas.asset
+      projectPath: ProjectSettings\NavMeshAreas.asset
+      originalPath: 
+      status: 1
+      staged: 0
+    - path: ProjectSettings\NetworkManager.asset
+      fullPath: C:\Users\ersada\Documents\New Unity Project (2)\ProjectSettings\NetworkManager.asset
+      projectPath: ProjectSettings\NetworkManager.asset
+      originalPath: 
+      status: 1
+      staged: 0
+    - path: ProjectSettings\Physics2DSettings.asset
+      fullPath: C:\Users\ersada\Documents\New Unity Project (2)\ProjectSettings\Physics2DSettings.asset
+      projectPath: ProjectSettings\Physics2DSettings.asset
+      originalPath: 
+      status: 1
+      staged: 0
+    - path: ProjectSettings\ProjectSettings.asset
+      fullPath: C:\Users\ersada\Documents\New Unity Project (2)\ProjectSettings\ProjectSettings.asset
+      projectPath: ProjectSettings\ProjectSettings.asset
+      originalPath: 
+      status: 1
+      staged: 0
+    - path: ProjectSettings\ProjectVersion.txt
+      fullPath: C:\Users\ersada\Documents\New Unity Project (2)\ProjectSettings\ProjectVersion.txt
+      projectPath: ProjectSettings\ProjectVersion.txt
+      originalPath: 
+      status: 1
+      staged: 0
+    - path: ProjectSettings\QualitySettings.asset
+      fullPath: C:\Users\ersada\Documents\New Unity Project (2)\ProjectSettings\QualitySettings.asset
+      projectPath: ProjectSettings\QualitySettings.asset
+      originalPath: 
+      status: 1
+      staged: 0
+    - path: ProjectSettings\TagManager.asset
+      fullPath: C:\Users\ersada\Documents\New Unity Project (2)\ProjectSettings\TagManager.asset
+      projectPath: ProjectSettings\TagManager.asset
+      originalPath: 
+      status: 1
+      staged: 0
+    - path: ProjectSettings\TimeManager.asset
+      fullPath: C:\Users\ersada\Documents\New Unity Project (2)\ProjectSettings\TimeManager.asset
+      projectPath: ProjectSettings\TimeManager.asset
+      originalPath: 
+      status: 1
+      staged: 0
+    - path: ProjectSettings\UnityConnectSettings.asset
+      fullPath: C:\Users\ersada\Documents\New Unity Project (2)\ProjectSettings\UnityConnectSettings.asset
+      projectPath: ProjectSettings\UnityConnectSettings.asset
+      originalPath: 
+      status: 1
+      staged: 0
+    - path: UnityPackageManager\manifest.json
+      fullPath: C:\Users\ersada\Documents\New Unity Project (2)\UnityPackageManager\manifest.json
+      projectPath: UnityPackageManager\manifest.json
+      originalPath: 
+      status: 1
+      staged: 0
+    changedFilesText: 97 changed files
+    lastCurrentBranchChangedEvent:
+      updatedTimeString: 2018-04-26T10:21:29.8737002+02:00
+      cacheType: 1
+    lastStatusEntriesChangedEvent:
+      updatedTimeString: 0001-01-01T00:00:00.0000000+00:00
+      cacheType: 5
+    lastLocksChangedEvent:
+      updatedTimeString: 0001-01-01T00:00:00.0000000+00:00
+      cacheType: 6
+  historyView:
+    hasItemsToCommit: 0
+    hasRemote: 0
+    currentRemoteName: placeholder
+    historyControl:
+      scroll: {x: 0, y: 0}
+      entries:
+      - commitID: 88b48026f124e9f69d719123c7bd637dec1e0952
+        mergeA: 
+        mergeB: 
+        authorName: noob_Jedi
+        authorEmail: Boveri.asea@gmail.com
+        commitEmail: Boveri.asea@gmail.com
+        commitName: noob_Jedi
+        summary: Initial commit
+        description: Initial commit
+        timeString: 2018-04-26T10:09:37.0000000+02:00
+        commitTimeString: 2018-04-26T10:09:37.0000000+02:00
+        changes:
+        - path: .gitattributes
+          fullPath: C:\Users\ersada\Documents\New Unity Project (2)\.gitattributes
+          projectPath: .gitattributes
+          originalPath: 
+          status: 4
+          staged: 0
+        - path: .gitignore
+          fullPath: C:\Users\ersada\Documents\New Unity Project (2)\.gitignore
+          projectPath: .gitignore
+          originalPath: 
+          status: 4
+          staged: 0
+        - path: Assets\.gitignore
+          fullPath: C:\Users\ersada\Documents\New Unity Project (2)\Assets\.gitignore
+          projectPath: Assets\.gitignore
+          originalPath: 
+          status: 4
+          staged: 0
+      statusAhead: 0
+      selectedIndex: -1
+    selectedEntry:
+      commitID: 
+      mergeA: 
+      mergeB: 
+      authorName: 
+      authorEmail: 
+      commitEmail: 
+      commitName: 
+      summary: 
+      description: 
+      timeString: 0001-01-01T00:00:00.0000000+00:00
+      commitTimeString: 0001-01-01T00:00:00.0000000+00:00
+      changes: []
+    detailsScroll: {x: 0, y: 0}
+    logEntries:
+    - commitID: 88b48026f124e9f69d719123c7bd637dec1e0952
+      mergeA: 
+      mergeB: 
+      authorName: noob_Jedi
+      authorEmail: Boveri.asea@gmail.com
+      commitEmail: Boveri.asea@gmail.com
+      commitName: noob_Jedi
+      summary: Initial commit
+      description: Initial commit
+      timeString: 2018-04-26T10:09:37.0000000+02:00
+      commitTimeString: 2018-04-26T10:09:37.0000000+02:00
+      changes:
+      - path: .gitattributes
+        fullPath: C:\Users\ersada\Documents\New Unity Project (2)\.gitattributes
+        projectPath: .gitattributes
+        originalPath: 
+        status: 4
+        staged: 0
+      - path: .gitignore
+        fullPath: C:\Users\ersada\Documents\New Unity Project (2)\.gitignore
+        projectPath: .gitignore
+        originalPath: 
+        status: 4
+        staged: 0
+      - path: Assets\.gitignore
+        fullPath: C:\Users\ersada\Documents\New Unity Project (2)\Assets\.gitignore
+        projectPath: Assets\.gitignore
+        originalPath: 
+        status: 4
+        staged: 0
+    statusAhead: 0
+    statusBehind: 0
+    treeChanges:
+      assets:
+        keys: []
+        values: []
+      folders:
+        keys: []
+        values: []
+      checkedFileNodes:
+        keys: []
+        values: []
+      title: 
+      pathSeparator: /
+      displayRootNode: 0
+      isSelectable: 0
+      isCheckable: 0
+      isUsingGlobalSelection: 0
+      nodes: []
+      selectedNode:
+        path: 
+        label: 
+        level: 0
+        isFolder: 0
+        isContainer: 0
+        isCollapsed: 0
+        isHidden: 0
+        isActive: 0
+        treeIsCheckable: 0
+        checkState: 0
+        isLocked: 0
+        gitStatusEntry:
+          path: 
+          fullPath: 
+          projectPath: 
+          originalPath: 
+          status: 0
+          staged: 0
+    lastCurrentRemoteChangedEvent:
+      updatedTimeString: 2018-04-26T10:09:38.6698233+02:00
+      cacheType: 1
+    lastLogChangedEvent:
+      updatedTimeString: 2018-04-26T10:09:38.8203885+02:00
+      cacheType: 3
+    lastAheadBehindChangedEvent:
+      updatedTimeString: 2018-04-26T10:09:38.6858663+02:00
+      cacheType: 4
+  settingsView:
+    gitPathView:
+      gitExec: C:\Users\ersada\AppData\Local\GitHubUnity\PortableGit_f02737a78695063deace08e96d5042710d3e32db\cmd\git.exe
+      gitExecParent: C:\Users\ersada\AppData\Local\GitHubUnity\PortableGit_f02737a78695063deace08e96d5042710d3e32db\cmd
+      gitExecExtension: exe
+      newGitExec: C:\Users\ersada\AppData\Local\GitHubUnity\PortableGit_f02737a78695063deace08e96d5042710d3e32db\cmd\git.exe
+      isValueChanged: 0
+      isValueChangedAndFileExists: 0
+      gitFileErrorMessage: 
+      gitVersionErrorMessage: 
+    hasRemote: 0
+    lastCurrentRemoteChangedEvent:
+      updatedTimeString: 2018-04-26T10:21:29.8737002+02:00
+      cacheType: 1
+    lastLocksChangedEvent:
+      updatedTimeString: 0001-01-01T00:00:00.0000000+00:00
+      cacheType: 6
+    lockedFiles: []
+    lockedFileSelection: -1
+    lockScrollPos: {x: 0, y: 0}
+    metricsEnabled: 1
+    newRepositoryRemoteUrl: 
+    repositoryRemoteName: origin
+    repositoryRemoteUrl: 
+    scroll: {x: 0, y: 0}
+    userSettingsView:
+      gitName: noob_Jedi
+      gitEmail: Boveri.asea@gmail.com
+      newGitName: noob_Jedi
+      newGitEmail: Boveri.asea@gmail.com
+      needsSaving: 0
+      lastCheckUserChangedEvent:
+        updatedTimeString: 2018-04-26T10:09:31.6132263+02:00
+        cacheType: 7
+    webTimeout: 3000
+  repoRemote: 
+  repoBranch: master
+  repoUrl: No remote configured
+  repoBranchContent:
+    m_Text: master
+    m_Image: {fileID: 0}
+    m_Tooltip: Active branch
+  repoUrlContent:
+    m_Text: No remote configured
+    m_Image: {fileID: 0}
+    m_Tooltip: Add a remote in the Settings tab
+  lastCurrentBranchAndRemoteChangedEvent:
+    updatedTimeString: 2018-04-26T10:21:29.8737002+02:00
+    cacheType: 1
+--- !u!114 &13
+MonoBehaviour:
+  m_ObjectHideFlags: 52
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 1
+  m_Script: {fileID: 12157, guid: 0000000000000000e000000000000000, type: 0}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_AutoRepaintOnSceneChange: 0
+  m_MinSize: {x: 275, y: 50}
+  m_MaxSize: {x: 4000, y: 4000}
+  m_TitleContent:
+    m_Text: Services
+    m_Image: {fileID: 0}
+    m_Tooltip: 
+  m_DepthBufferBits: 0
+  m_Pos:
+    serializedVersion: 2
+    x: 1261
+    y: 92
+    width: 275
+    height: 710
+  m_PersistentViewDataDictionary: {fileID: 0}
+  m_InitialOpenURL: https://public-cdn.cloud.unity3d.com/editor/production/cloud/hub
+  m_GlobalObjectTypeName: 
+  m_RegisteredViewURLs:
+  - https://public-cdn.cloud.unity3d.com/editor/production/cloud/hub
+  m_RegisteredViewInstances:
+  - {fileID: 0}
+--- !u!114 &14
+MonoBehaviour:
+  m_ObjectHideFlags: 52
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 1
+  m_Script: {fileID: 12111, guid: 0000000000000000e000000000000000, type: 0}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_AutoRepaintOnSceneChange: 0
+  m_MinSize: {x: 400, y: 100}
+  m_MaxSize: {x: 2048, y: 2048}
+  m_TitleContent:
+    m_Text: Asset Store
+    m_Image: {fileID: 357073275683767465, guid: 0000000000000000d000000000000000,
+      type: 0}
+    m_Tooltip: 
+  m_DepthBufferBits: 0
+  m_Pos:
+    serializedVersion: 2
+    x: 468
+    y: 181
+    width: 973
+    height: 501
+  m_PersistentViewDataDictionary: {fileID: 0}
+--- !u!114 &15
+MonoBehaviour:
+  m_ObjectHideFlags: 52
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 1
+  m_Script: {fileID: 12014, guid: 0000000000000000e000000000000000, type: 0}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_AutoRepaintOnSceneChange: 0
+  m_MinSize: {x: 230, y: 250}
+  m_MaxSize: {x: 10000, y: 10000}
+  m_TitleContent:
+    m_Text: Project
+    m_Image: {fileID: -7501376956915960154, guid: 0000000000000000d000000000000000,
+      type: 0}
+    m_Tooltip: 
+  m_DepthBufferBits: 0
+  m_Pos:
+    serializedVersion: 2
+    x: 0
+    y: 534
+    width: 1257
+    height: 268
+  m_PersistentViewDataDictionary: {fileID: 0}
+  m_SearchFilter:
+    m_NameFilter: 
+    m_ClassNames: []
+    m_AssetLabels: []
+    m_AssetBundleNames: []
+    m_VersionControlStates: []
+    m_SoftLockControlStates: []
+    m_ReferencingInstanceIDs: 
+    m_ScenePaths: []
+    m_ShowAllHits: 0
+    m_SearchArea: 0
+    m_Folders:
+    - Assets
+  m_ViewMode: 1
+  m_StartGridSize: 64
+  m_LastFolders:
+  - Assets
+  m_LastFoldersGridSize: -1
+  m_LastProjectPath: C:\Users\ersada\Documents\New Unity Project (2)
+  m_IsLocked: 0
+  m_FolderTreeState:
+    scrollPos: {x: 0, y: 0}
+    m_SelectedIDs: e0280000
+    m_LastClickedID: 10464
+    m_ExpandedIDs: e028000000ca9a3bffffff7f
+    m_RenameOverlay:
+      m_UserAcceptedRename: 0
+      m_Name: All Materials
+      m_OriginalName: All Materials
+      m_EditFieldRect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 0
+        height: 0
+      m_UserData: 1000000001
+      m_IsWaitingForDelay: 0
+      m_IsRenaming: 0
+      m_OriginalEventType: 0
+      m_IsRenamingFilename: 1
+      m_ClientGUIView: {fileID: 5}
+    m_SearchString: 
+    m_CreateAssetUtility:
+      m_EndAction: {fileID: 0}
+      m_InstanceID: 0
+      m_Path: 
+      m_Icon: {fileID: 0}
+      m_ResourceFile: 
+  m_AssetTreeState:
+    scrollPos: {x: 0, y: 0}
+    m_SelectedIDs: 
+    m_LastClickedID: 0
+    m_ExpandedIDs: 
+    m_RenameOverlay:
+      m_UserAcceptedRename: 0
+      m_Name: 
+      m_OriginalName: 
+      m_EditFieldRect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 0
+        height: 0
+      m_UserData: 0
+      m_IsWaitingForDelay: 0
+      m_IsRenaming: 0
+      m_OriginalEventType: 11
+      m_IsRenamingFilename: 1
+      m_ClientGUIView: {fileID: 0}
+    m_SearchString: 
+    m_CreateAssetUtility:
+      m_EndAction: {fileID: 0}
+      m_InstanceID: 0
+      m_Path: 
+      m_Icon: {fileID: 0}
+      m_ResourceFile: 
+  m_ListAreaState:
+    m_SelectedInstanceIDs: 
+    m_LastClickedInstanceID: 0
+    m_HadKeyboardFocusLastEvent: 0
+    m_ExpandedInstanceIDs: c6230000
+    m_RenameOverlay:
+      m_UserAcceptedRename: 0
+      m_Name: 
+      m_OriginalName: 
+      m_EditFieldRect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 0
+        height: 0
+      m_UserData: 0
+      m_IsWaitingForDelay: 0
+      m_IsRenaming: 0
+      m_OriginalEventType: 11
+      m_IsRenamingFilename: 1
+      m_ClientGUIView: {fileID: 0}
+    m_CreateAssetUtility:
+      m_EndAction: {fileID: 0}
+      m_InstanceID: 0
+      m_Path: 
+      m_Icon: {fileID: 0}
+      m_ResourceFile: 
+    m_NewAssetIndexInList: -1
+    m_ScrollPosition: {x: 0, y: 0}
+    m_GridSize: 64
+  m_DirectoriesAreaWidth: 218
+--- !u!114 &16
+MonoBehaviour:
+  m_ObjectHideFlags: 52
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 1
+  m_Script: {fileID: 12019, guid: 0000000000000000e000000000000000, type: 0}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_AutoRepaintOnSceneChange: 0
+  m_MinSize: {x: 275, y: 50}
+  m_MaxSize: {x: 4000, y: 4000}
+  m_TitleContent:
+    m_Text: Inspector
+    m_Image: {fileID: -6905738622615590433, guid: 0000000000000000d000000000000000,
+      type: 0}
+    m_Tooltip: 
+  m_DepthBufferBits: 0
+  m_Pos:
+    serializedVersion: 2
+    x: 1227
+    y: 19
+    width: 309
+    height: 710
+  m_PersistentViewDataDictionary: {fileID: 0}
+  m_ScrollPosition: {x: 0, y: 0}
+  m_InspectorMode: 0
+  m_PreviewResizer:
+    m_CachedPref: 160
+    m_ControlHash: -371814159
+    m_PrefName: Preview_InspectorPreview
+  m_PreviewWindow: {fileID: 0}
+--- !u!114 &17
+MonoBehaviour:
+  m_ObjectHideFlags: 52
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 1
+  m_Script: {fileID: 12061, guid: 0000000000000000e000000000000000, type: 0}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_AutoRepaintOnSceneChange: 0
+  m_MinSize: {x: 200, y: 200}
+  m_MaxSize: {x: 4000, y: 4000}
+  m_TitleContent:
+    m_Text: Hierarchy
+    m_Image: {fileID: -590624980919486359, guid: 0000000000000000d000000000000000,
+      type: 0}
+    m_Tooltip: 
+  m_DepthBufferBits: 0
+  m_Pos:
+    serializedVersion: 2
+    x: 0
+    y: 92
+    width: 309
+    height: 421
+  m_PersistentViewDataDictionary: {fileID: 0}
+  m_TreeViewState:
+    scrollPos: {x: 0, y: 0}
+    m_SelectedIDs: 
+    m_LastClickedID: 0
+    m_ExpandedIDs: 14f5ffffcef9ffff00000000
+    m_RenameOverlay:
+      m_UserAcceptedRename: 0
+      m_Name: Main Camera
+      m_OriginalName: Main Camera
+      m_EditFieldRect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 0
+        height: 0
+      m_UserData: 10636
+      m_IsWaitingForDelay: 0
+      m_IsRenaming: 0
+      m_OriginalEventType: 0
+      m_IsRenamingFilename: 0
+      m_ClientGUIView: {fileID: 4}
+    m_SearchString: 
+  m_ExpandedScenes:
+  - test_project
+  m_CurrenRootInstanceID: 0
+  m_Locked: 0
+  m_CurrentSortingName: TransformSorting
+--- !u!114 &18
+MonoBehaviour:
+  m_ObjectHideFlags: 52
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 1
+  m_Script: {fileID: 12013, guid: 0000000000000000e000000000000000, type: 0}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_AutoRepaintOnSceneChange: 1
+  m_MinSize: {x: 200, y: 200}
+  m_MaxSize: {x: 4000, y: 4000}
+  m_TitleContent:
+    m_Text: Scene
+    m_Image: {fileID: 2318424515335265636, guid: 0000000000000000d000000000000000,
+      type: 0}
+    m_Tooltip: 
+  m_DepthBufferBits: 32
+  m_Pos:
+    serializedVersion: 2
+    x: 313
+    y: 92
+    width: 944
+    height: 421
+  m_PersistentViewDataDictionary: {fileID: 0}
+  m_SceneLighting: 1
+  lastFramingTime: 206.52976160376224
+  m_2DMode: 0
+  m_isRotationLocked: 0
+  m_AudioPlay: 0
+  m_Position:
+    m_Target: {x: 0, y: 1, z: -10}
+    speed: 2
+    m_Value: {x: 0, y: 1, z: -10}
+  m_RenderMode: 0
+  m_ValidateTrueMetals: 0
+  m_SceneViewState:
+    showFog: 1
+    showMaterialUpdate: 0
+    showSkybox: 1
+    showFlares: 1
+    showImageEffects: 1
+    showParticleSystems: 1
+  grid:
+    xGrid:
+      m_Target: 0
+      speed: 2
+      m_Value: 0
+    yGrid:
+      m_Target: 1
+      speed: 2
+      m_Value: 1
+    zGrid:
+      m_Target: 0
+      speed: 2
+      m_Value: 0
+  m_Rotation:
+    m_Target: {x: -0.08717229, y: 0.89959055, z: -0.21045254, w: -0.3726226}
+    speed: 2
+    m_Value: {x: -0.08717229, y: 0.89959055, z: -0.21045254, w: -0.3726226}
+  m_Size:
+    m_Target: 22
+    speed: 2
+    m_Value: 22
+  m_Ortho:
+    m_Target: 0
+    speed: 2
+    m_Value: 0
+  m_ShowGlobalGrid: 1
+  m_LastSceneViewRotation: {x: 0, y: 0, z: 0, w: 0}
+  m_LastSceneViewOrtho: 0
+  m_ReplacementShader: {fileID: 0}
+  m_ReplacementString: 
+  m_LastLockedObject: {fileID: 0}
+  m_ViewIsLockedToObject: 0
+--- !u!114 &19
+MonoBehaviour:
+  m_ObjectHideFlags: 52
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 1
+  m_Script: {fileID: 12015, guid: 0000000000000000e000000000000000, type: 0}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_AutoRepaintOnSceneChange: 1
+  m_MinSize: {x: 200, y: 200}
+  m_MaxSize: {x: 4000, y: 4000}
+  m_TitleContent:
+    m_Text: Game
+    m_Image: {fileID: -2087823869225018852, guid: 0000000000000000d000000000000000,
+      type: 0}
+    m_Tooltip: 
+  m_DepthBufferBits: 32
+  m_Pos:
+    serializedVersion: 2
+    x: 507
+    y: 94
+    width: 1532
+    height: 790
+  m_PersistentViewDataDictionary: {fileID: 0}
+  m_MaximizeOnPlay: 0
+  m_Gizmos: 0
+  m_Stats: 0
+  m_SelectedSizes: 00000000000000000000000000000000000000000000000000000000000000000000000000000000
+  m_TargetDisplay: 0
+  m_ZoomArea:
+    m_HRangeLocked: 0
+    m_VRangeLocked: 0
+    m_HBaseRangeMin: -766
+    m_HBaseRangeMax: 766
+    m_VBaseRangeMin: -386.5
+    m_VBaseRangeMax: 386.5
+    m_HAllowExceedBaseRangeMin: 1
+    m_HAllowExceedBaseRangeMax: 1
+    m_VAllowExceedBaseRangeMin: 1
+    m_VAllowExceedBaseRangeMax: 1
+    m_ScaleWithWindow: 0
+    m_HSlider: 0
+    m_VSlider: 0
+    m_IgnoreScrollWheelUntilClicked: 0
+    m_EnableMouseInput: 1
+    m_EnableSliderZoom: 0
+    m_UniformScale: 1
+    m_UpDirection: 1
+    m_DrawArea:
+      serializedVersion: 2
+      x: 0
+      y: 17
+      width: 1532
+      height: 773
+    m_Scale: {x: 1, y: 1}
+    m_Translation: {x: 766, y: 386.5}
+    m_MarginLeft: 0
+    m_MarginRight: 0
+    m_MarginTop: 0
+    m_MarginBottom: 0
+    m_LastShownAreaInsideMargins:
+      serializedVersion: 2
+      x: -766
+      y: -386.5
+      width: 1532
+      height: 773
+    m_MinimalGUI: 1
+  m_defaultScale: 1
+  m_TargetTexture: {fileID: 0}
+  m_CurrentColorSpace: 1
+  m_LastWindowPixelSize: {x: 1532, y: 790}
+  m_ClearInEditMode: 1
+  m_NoCameraWarning: 1
+  m_LowResolutionForAspectRatios: 01000000000100000100
+--- !u!114 &20
+MonoBehaviour:
+  m_ObjectHideFlags: 52
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 1
+  m_Script: {fileID: 12003, guid: 0000000000000000e000000000000000, type: 0}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_AutoRepaintOnSceneChange: 0
+  m_MinSize: {x: 100, y: 100}
+  m_MaxSize: {x: 4000, y: 4000}
+  m_TitleContent:
+    m_Text: Console
+    m_Image: {fileID: 111653112392082826, guid: 0000000000000000d000000000000000,
+      type: 0}
+    m_Tooltip: 
+  m_DepthBufferBits: 0
+  m_Pos:
+    serializedVersion: 2
+    x: 8
+    y: 718
+    width: 1366
+    height: 308
+  m_PersistentViewDataDictionary: {fileID: 0}
