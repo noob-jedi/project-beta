@@ -12,8 +12,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 1
-  lastUpdatedAtString: 2018-05-01T16:40:16.0132401+02:00
-  initializedAtString: 2018-05-01T16:40:16.0132401+02:00
+  lastUpdatedAtString: 2018-05-01T20:28:37.8852040+02:00
+  initializedAtString: 2018-05-01T20:28:37.8852040+02:00
   currentGitRemote:
     name: origin
     url: https://github.com/noob-jedi/project-beta
