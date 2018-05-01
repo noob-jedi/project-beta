@@ -6,6 +6,9 @@ public class MeshGenerator : MonoBehaviour {
 	
 	public SquareGrid squaregrid;
 	public MeshFilter walls;
+	public MeshFilter cave;
+
+	public bool is2D;
 
 	List<Vector3> vertices;
 	List<int> triangles;
@@ -30,13 +33,15 @@ public class MeshGenerator : MonoBehaviour {
 		}
 
 		Mesh mesh = new Mesh ();
-		GetComponent<MeshFilter> ().mesh = mesh;
+		cave.mesh = mesh;
+
 		mesh.vertices = vertices.ToArray();
 		mesh.triangles = triangles.ToArray ();
 		mesh.RecalculateNormals ();
 
-		createWallMesh ();
-
+		if (!is2D) {
+			createWallMesh ();
+		}
 	}
 
 	void createWallMesh(){
@@ -46,7 +51,7 @@ public class MeshGenerator : MonoBehaviour {
 		List<Vector3> wallVertices = new List<Vector3> ();
 		List<int> wallTriangles = new List<int> ();
 		Mesh wallMesh = new Mesh ();
-		float wallHeight = 2;
+		float wallHeight = 5;
 
 		foreach (List<int> outline in outlines) {
 			for (int i = 0; i < outline.Count - 1; i++) {
@@ -70,6 +75,10 @@ public class MeshGenerator : MonoBehaviour {
 		wallMesh.vertices = wallVertices.ToArray ();
 		wallMesh.triangles = wallTriangles.ToArray ();
 		walls.mesh = wallMesh;
+
+		MeshCollider wallCollider = walls.gameObject.GetComponent<MeshCollider> ();
+
+		wallCollider.sharedMesh = wallMesh;
 	}
 
 
